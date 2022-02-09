@@ -1,0 +1,305 @@
+# Include this line to make plots interactive
+%matplotlib notebook
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+
+#Import CSVs
+top1000 = pd.read_csv('data_sets/Highest Holywood Grossing Movies.csv')
+top5000 = pd.read_csv('data_sets/tmdb_5000_movies.csv')
+
+top1000.head()
+#top5000.head()
+
+#Clean up data. Rows to keep: Top1000: 'Title', 'Distributor', 'Domestic Sales (in $)', 'International Sales (in $)', 'Genre'
+#Top 5000:'title', 'vote_average', 'revenue', 'release_date', 'budget'
+
+top1000 = top1000[['Title', 'Distributor', 'Domestic Sales (in $)', 'International Sales (in $)', 'Genre']]
+top5000 = top5000[['title', 'vote_average', 'release_date', 'revenue', 'budget']]
+
+top1000.head()
+#top5000.head()
+
+#Clean up titles in Top1000 for easier merge
+
+new_title = []
+
+for x in top1000['Title']:
+    
+    old_title = x
+    size = len(old_title)
+    # Slice string to remove last 3 characters from
+    Title = old_title[:size - 7]
+    new_title.append(Title)
+    #top1000.replace(to_replace= top1000['Title'], 
+                     #value=Title 
+                     #)
+            
+del top1000['Title']
+
+
+            
+top1000['title'] =  new_title
+
+
+top1000.head()
+
+#merge the two datasets
+
+final_movie_dataset = top1000.merge(top5000, how='left', on='title')
+
+final_movie_dataset = final_movie_dataset.dropna(how='any',axis=0) 
+
+final_movie_dataset.head()
+
+#final_movie_dataset['release_date'].max()
+
+#Update revenue
+
+for row in final_movie_dataset:
+    new_rev = (final_movie_dataset['Domestic Sales (in $)']+ final_movie_dataset['International Sales (in $)'])
+
+    
+    
+del final_movie_dataset['revenue']
+
+
+            
+final_movie_dataset['Revenue'] =  new_rev
+
+final_movie_dataset.head()    
+
+
+#Create profit column
+
+for row in final_movie_dataset:
+    value = (final_movie_dataset['Revenue']- final_movie_dataset['budget'])
+  
+
+
+final_movie_dataset['Profit/Loss']= value
+
+final_movie_dataset.head()
+
+
+
+#Calculate domestic and international sales distributions
+
+
+for row in final_movie_dataset:
+    dom_rate = ((final_movie_dataset['Domestic Sales (in $)']/final_movie_dataset['Revenue'])*100).map("{:.2f}%".format)
+    
+final_movie_dataset['Domestic Sales (as % of total Revenue)'] = dom_rate
+
+for row in final_movie_dataset:
+    int_rate = ((final_movie_dataset['International Sales (in $)']/final_movie_dataset['Revenue'])*100).map("{:.2f}%".format)
+    
+final_movie_dataset['International Sales (as % of total Revenue)'] = int_rate
+
+#Organize columns into more logical order
+
+final_movie_dataset = final_movie_dataset[['title',
+                                           'Distributor',
+                                           'Genre',
+                                           'release_date',
+                                           'budget',
+                                           'Domestic Sales (in $)',
+                                           'International Sales (in $)',
+                                           'Domestic Sales (as % of total Revenue)',
+                                           'International Sales (as % of total Revenue)',
+                                           'Revenue',
+                                           'Profit/Loss',
+                                           'vote_average'
+                                          ]]
+
+
+final_movie_dataset.head(20)
+    
+
+
+import datetime
+#Create a new dataframe with release dates and total revenue
+
+date_vs_rev = final_movie_dataset[['release_date', 'Revenue']]
+date_vs_rev.head()
+
+
+#Extract month only from release date to compare with revenue, replace the release date with the release month
+#df['mm'] = pd.to_datetime(df['StartDate']).dt.month
+date_vs_rev['release_month'] = pd.to_datetime(date_vs_rev['release_date']).dt.month
+date_vs_rev
+
+#Delete release date column
+del date_vs_rev['release_date']
+date_vs_rev.head()
+
+#Average revenue within a particular month(visualize bell curve)
+monthly_avg_rev = date_vs_rev.groupby(['release_month']).Revenue.mean().to_frame()
+monthly_avg_rev
+
+from matplotlib import pyplot as plt 
+%matplotlib inline
+
+monthly_avg_rev.plot(color = "green")
+
+
+#Average revenue within a particular season(visualize bar chart)
+#Create 4 bins for the season, 3 months each
+#Bins are Mar-May(3), June-Aug(6), Sept-Nov(9), Dec-Feb(12)
+bins = [0, 3, 6, 9, 12]
+#Create names for the bins
+season = ["Q1:Spring", "Q2:Summer", "Q3:Fall", "Q4:Winter"]
+
+date_vs_rev["Season quarter"] = pd.cut(date_vs_rev["release_month"], bins, labels=season, include_lowest=True)
+date_vs_rev
+
+# date_vs_rev = date_vs_rev.groupby("Season quarter")
+# date_vs_rev.max()
+
+#This will bin on a line graph
+date_vs_rev.groupby('Season quarter').count()
+date_vs_rev.groupby('Season quarter').count().plot(color = 'green')
+
+# plt.bar(bins=4, color = 'green')
+
+# ax = date_vs_rev.plot(bins=4, kind='hist', rwidth=0.7, color='green')
+# ax.set(xlabel="season")
+# plt.show()
+
+# ax = plt.hist(season, bins = bins)
+# plt.xticks(rotation = 90)
+# x = ['Q1:Spring', 'Q2:Summer', 'Q3:Fall', 'Q4:Winter']
+# y = ['1025468216', '1670516444', '1081142612', '2847246203']
+# plt.plot(x, y)
+# plt.xlabel("Season quarter")
+# plt.ylabel("Average Revenue")
+# plt.show()
+
+# plt.barh("Season quarter", "Revenue", data = Revenue, color = "green") 
+# plt.xlabel("Season quarter") 
+# plt.ylabel("Average Revenue") 
+
+# plt.show()
+
+#I was expecting the average rev to be highest in the summer
+
+list1 = final_movie_dataset['Genre'].tolist()
+
+unique_list = []
+
+
+for entry in list1:
+    #Split the string into a list
+    genres_from_entry = entry.split(", ")
+
+    #For loop to add genre to unique_list if not alredy in unique_list
+    for genre in genres_from_entry:
+        if genre not in unique_list:
+            unique_list.append(genre)
+
+
+
+#output of unique_list
+unique_list
+
+# Create empty dictionary to hold genre info
+genre_dict = {}
+
+###Add each unique genre to the dictionary with###
+
+#Loop through unique_list
+for entry in unique_list:
+
+    ##Create dictionary entry to genre
+    genre_dict.update(
+        {
+            #Make key for each genre based on genre name + '_dict_key'
+            entry.lower() + '_dict_key': 
+            {
+                #Create Key-Value pairs
+                "genre" : entry,
+                "genre_total_title_count" : 0,
+                "genre_total_budget" : 0,
+                "genre_total_revenue" : 0,
+                "genre_domestic_sales" : 0,
+                "genre_international_sales" : 0,
+                "sum_vote_average" : 0,
+                "movie_title_list" : []
+            
+            
+            
+            
+            
+            }
+        }
+
+
+
+    ) 
+
+# for loop to index through each row of the dataframe
+for index, row in final_movie_dataset.iterrows():
+    #row by row within for loop, creates a list of lowercase genres for each 
+    genre_list_by_movie = row['Genre'].lower().split(", ")
+    
+    # For Loop to go through each element of the genre_list_by_movie
+    for genre in genre_list_by_movie:
+
+        #sets variable that will be used to access correct dictionary item by key
+        genre_dict_key = genre + '_dict_key'
+        
+        #Set the dictionary values for the corresponding elements
+        genre_dict[genre_dict_key]['genre_total_title_count'] = genre_dict[genre_dict_key]['genre_total_title_count'] + 1
+        genre_dict[genre_dict_key]['genre_total_budget'] = genre_dict[genre_dict_key]['genre_total_budget'] + row['budget']
+        genre_dict[genre_dict_key]['genre_total_revenue'] = genre_dict[genre_dict_key]['genre_total_revenue'] + row['Revenue']
+        genre_dict[genre_dict_key]['genre_domestic_sales'] = genre_dict[genre_dict_key]['genre_domestic_sales'] + row['Domestic Sales (in $)']
+        genre_dict[genre_dict_key]['genre_international_sales'] = genre_dict[genre_dict_key]['genre_international_sales'] + row['International Sales (in $)']
+        genre_dict[genre_dict_key]['sum_vote_average'] = genre_dict[genre_dict_key]['sum_vote_average'] + row['vote_average']
+        genre_dict[genre_dict_key]['movie_title_list'].append(row['title'])
+        
+        
+    
+
+
+#Make new dataframe from genre_dict
+genre_df = pd.DataFrame.from_dict(genre_dict,orient='index')
+
+
+#reset so index is numeric
+genre_df.reset_index(drop=True,inplace=True)
+
+#Output of genre_df
+genre_df
+
+
+
+# unique_list = []
+     
+# traverse for all elements
+
+# genre_list = (final_movie_dataset['Genre'].str.split(',')) 
+
+# for index, row in final_movie_dataset.iteritems():
+#     print(index, row)
+#     for genre in row['Genre']:
+#         if genre not in unique_list:
+#             unique_list.append(genre)
+            
+# df_out = final_movie_dataset['Genre'].str.split(',', )
+
+# df_out
+   
+list1 = final_movie_dataset['Genre'].tolist()
+list1
+
+# for genre in list1:
+#     if genre not in unique_list:
+#         unique_list.append(genre) 
+
+
+    
+        
+# # print list
+# print(unique_list)
+
+
