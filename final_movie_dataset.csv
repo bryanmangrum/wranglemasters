@@ -1,0 +1,699 @@
+title,Distributor,Genre,release_date,budget,Domestic Sales (in $),International Sales (in $),Domestic Sales (as % of total Revenue),International Sales (as % of total Revenue),Revenue,Profit/Loss,vote_average
+Avatar,Twentieth Century Fox,"Action, Adventure, Fantasy, Sci-Fi",2009-12-10,237000000.0,760507625,2086738578,26.71%,73.29%,2847246203,2610246203.0,7.2
+Titanic,Paramount Pictures,"Drama, Romance",1997-11-18,200000000.0,659363944,1542283320,29.95%,70.05%,2201647264,2001647264.0,7.5
+Jurassic World,Universal Pictures,"Action, Adventure, Sci-Fi",2015-06-09,150000000.0,652385625,1018130819,39.05%,60.95%,1670516444,1520516444.0,6.5
+The Avengers,Walt Disney Studios Motion Pictures,"Action, Adventure, Sci-Fi",2012-04-25,220000000.0,623357910,895457605,41.04%,58.96%,1518815515,1298815515.0,7.4
+The Lion King,Walt Disney Studios Motion Pictures,"Adventure, Animation, Drama, Family, Musical",1994-06-23,45000000.0,543638043,1119261396,32.69%,67.31%,1662899439,1617899439.0,8.0
+The Dark Knight,Warner Bros.,"Action, Crime, Drama, Thriller",2008-07-16,185000000.0,534858444,471115201,53.17%,46.83%,1005973645,820973645.0,8.2
+Star Wars: Episode I - The Phantom Menace,Twentieth Century Fox,"Action, Adventure, Fantasy, Sci-Fi",1999-05-19,115000000.0,474544677,552538030,46.20%,53.80%,1027082707,912082707.0,6.3
+Avengers: Age of Ultron,Walt Disney Studios Motion Pictures,"Action, Adventure, Sci-Fi",2015-04-22,280000000.0,459005868,943803672,32.72%,67.28%,1402809540,1122809540.0,7.3
+The Dark Knight Rises,Warner Bros.,"Action, Crime, Drama",2012-07-16,250000000.0,448139099,633003513,41.45%,58.55%,1081142612,831142612.0,7.6
+Shrek 2,DreamWorks Distribution,"Adventure, Animation, Comedy, Family, Fantasy, Romance",2004-05-19,150000000.0,441226247,487534523,47.51%,52.49%,928760770,778760770.0,6.7
+E.T. the Extra-Terrestrial,Universal Pictures,"Adventure, Family, Sci-Fi",1982-04-03,10500000.0,435110554,304203888,58.85%,41.15%,739314442,728814442.0,7.3
+The Hunger Games: Catching Fire,Lionsgate,"Action, Adventure, Drama, Sci-Fi, Thriller",2013-11-15,130000000.0,424668047,440343699,49.09%,50.91%,865011746,735011746.0,7.4
+Pirates of the Caribbean: Dead Man's Chest,Walt Disney Studios Motion Pictures,"Action, Adventure, Fantasy",2006-06-20,200000000.0,423315812,642863935,39.70%,60.30%,1066179747,866179747.0,7.0
+The Lion King,Walt Disney Studios Motion Pictures,"Adventure, Animation, Drama, Family, Musical",1994-06-23,45000000.0,422783777,640828028,39.75%,60.25%,1063611805,1018611805.0,8.0
+Toy Story 3,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Fantasy",2010-06-16,200000000.0,415004880,651965931,38.90%,61.10%,1066970811,866970811.0,7.6
+Iron Man 3,Walt Disney Studios Motion Pictures,"Action, Adventure, Sci-Fi",2013-04-18,200000000.0,409013994,805797258,33.67%,66.33%,1214811252,1014811252.0,6.8
+Captain America: Civil War,Walt Disney Studios Motion Pictures,"Action, Adventure, Sci-Fi",2016-04-27,250000000.0,408084349,745253147,35.38%,64.62%,1153337496,903337496.0,7.1
+The Hunger Games,Lionsgate,"Action, Adventure, Sci-Fi, Thriller",2012-03-12,75000000.0,408010692,286384032,58.76%,41.24%,694394724,619394724.0,6.9
+Spider-Man,Sony Pictures Entertainment (SPE),"Action, Adventure, Sci-Fi",2002-05-01,139000000.0,407022860,418002176,49.33%,50.67%,825025036,686025036.0,6.8
+Jurassic Park,Universal Pictures,"Action, Adventure, Sci-Fi, Thriller",1993-06-11,63000000.0,404214720,629713583,39.10%,60.90%,1033928303,970928303.0,7.6
+Transformers: Revenge of the Fallen,DreamWorks,"Action, Adventure, Sci-Fi",2009-06-19,150000000.0,402111870,434191823,48.08%,51.92%,836303693,686303693.0,6.0
+Frozen,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Fantasy, Musical",2013-11-27,150000000.0,400953009,880555091,31.29%,68.71%,1281508100,1131508100.0,7.3
+Finding Nemo,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family",2003-05-30,94000000.0,380843261,559509384,40.50%,59.50%,940352645,846352645.0,7.6
+Star Wars: Episode III - Revenge of the Sith,Twentieth Century Fox,"Action, Adventure, Fantasy, Sci-Fi",2005-05-17,113000000.0,380270577,488119983,43.79%,56.21%,868390560,755390560.0,7.1
+The Lord of the Rings: The Return of the King,New Line Cinema,"Action, Adventure, Drama, Fantasy",2003-12-01,94000000.0,377845905,768185007,32.97%,67.03%,1146030912,1052030912.0,8.1
+Spider-Man 2,Sony Pictures Entertainment (SPE),"Action, Adventure, Sci-Fi",2004-06-25,200000000.0,373585825,415390628,47.35%,52.65%,788976453,588976453.0,6.7
+The Passion of the Christ,Newmarket Films,Drama,2004-02-25,30000000.0,370782930,241271576,60.58%,39.42%,612054506,582054506.0,6.9
+The Secret Life of Pets,Universal Pictures,"Adventure, Animation, Comedy, Family",2016-06-18,75000000.0,368384330,507074301,42.08%,57.92%,875458631,800458631.0,5.9
+Despicable Me 2,Universal Pictures,"Adventure, Animation, Comedy, Crime, Family, Sci-Fi",2013-06-25,76000000.0,368065385,602700620,37.91%,62.09%,970766005,894766005.0,7.0
+The Jungle Book,Walt Disney Studios Motion Pictures,"Adventure, Drama, Family, Fantasy",2016-04-07,175000000.0,364001123,602553806,37.66%,62.34%,966554929,791554929.0,6.7
+Deadpool,Twentieth Century Fox,"Action, Adventure, Comedy, Sci-Fi",2016-02-09,58000000.0,363070709,419766082,46.38%,53.62%,782836791,724836791.0,7.4
+Inside Out,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Drama, Family, Fantasy, Sci-Fi",2015-06-09,175000000.0,356921711,501926308,41.56%,58.44%,858848019,683848019.0,8.0
+Aladdin,Walt Disney Studios Motion Pictures,"Adventure, Comedy, Family, Fantasy, Musical, Romance",1992-11-25,28000000.0,355559216,695134737,33.84%,66.16%,1050693953,1022693953.0,7.4
+Furious 7,Universal Pictures,"Action, Thriller",2015-04-01,190000000.0,353007020,1162334379,23.30%,76.70%,1515341399,1325341399.0,7.3
+Transformers: Dark of the Moon,DreamWorks,"Action, Adventure, Sci-Fi",2011-06-28,195000000.0,352390543,771403536,31.36%,68.64%,1123794079,928794079.0,6.1
+American Sniper,Warner Bros.,"Action, Biography, Drama, War",2014-12-11,58800000.0,350126372,197300000,63.96%,36.04%,547426372,488626372.0,7.4
+The Lord of the Rings: The Two Towers,New Line Cinema,"Action, Adventure, Drama, Fantasy",2002-12-18,79000000.0,342551365,604943730,36.15%,63.85%,947495095,868495095.0,8.0
+The Hunger Games: Mockingjay - Part 1,Lionsgate,"Action, Adventure, Sci-Fi, Thriller",2014-11-18,125000000.0,337135885,418220826,44.63%,55.37%,755356711,630356711.0,6.6
+Spider-Man 3,Sony Pictures Entertainment (SPE),"Action, Adventure, Sci-Fi",2007-05-01,258000000.0,336530303,558453070,37.60%,62.40%,894983373,636983373.0,5.9
+Minions,Universal Pictures,"Adventure, Animation, Comedy, Crime, Family, Sci-Fi",2015-06-17,74000000.0,336045770,823398892,28.98%,71.02%,1159444662,1085444662.0,6.4
+Alice in Wonderland,Walt Disney Studios Motion Pictures,"Adventure, Family, Fantasy, Mystery",2010-03-03,200000000.0,334191110,691277106,32.59%,67.41%,1025468216,825468216.0,6.4
+Guardians of the Galaxy,Walt Disney Studios Motion Pictures,"Action, Adventure, Comedy, Sci-Fi",2014-07-30,170000000.0,333718600,439631547,43.15%,56.85%,773350147,603350147.0,7.9
+Forrest Gump,Paramount Pictures,"Drama, Romance",1994-07-06,55000000.0,330455270,347770863,48.72%,51.28%,678226133,623226133.0,8.2
+Batman v Superman: Dawn of Justice,Warner Bros.,"Action, Adventure, Sci-Fi",2016-03-23,250000000.0,330360194,543277334,37.81%,62.19%,873637528,623637528.0,5.7
+Suicide Squad,Warner Bros.,"Action, Adventure, Fantasy, Sci-Fi",2016-08-02,175000000.0,325100054,421746840,43.53%,56.47%,746846894,571846894.0,5.9
+Shrek the Third,DreamWorks,"Adventure, Animation, Comedy, Family, Fantasy, Romance",2007-05-17,160000000.0,322719944,490647436,39.68%,60.32%,813367380,653367380.0,6.0
+Transformers,DreamWorks,"Action, Adventure, Sci-Fi",2007-06-27,150000000.0,319246193,390463587,44.98%,55.02%,709709780,559709780.0,6.6
+Iron Man,Paramount Pictures,"Action, Adventure, Sci-Fi",2008-04-30,140000000.0,319034126,266762121,54.46%,45.54%,585796247,445796247.0,7.4
+Indiana Jones and the Kingdom of the Crystal Skull,Paramount Pictures,"Action, Adventure",2008-05-21,185000000.0,317101119,473552823,40.11%,59.89%,790653942,605653942.0,5.7
+The Lord of the Rings: The Fellowship of the Ring,New Line Cinema,"Action, Adventure, Drama, Fantasy",2001-12-18,93000000.0,315710750,581979322,35.17%,64.83%,897690072,804690072.0,8.0
+Iron Man 2,Paramount Pictures,"Action, Adventure, Sci-Fi",2010-04-28,200000000.0,312433331,311500000,50.07%,49.93%,623933331,423933331.0,6.6
+Star Wars: Episode II - Attack of the Clones,Twentieth Century Fox,"Action, Adventure, Fantasy, Sci-Fi",2002-05-15,120000000.0,310676740,343103230,47.52%,52.48%,653779970,533779970.0,6.4
+Pirates of the Caribbean: At World's End,Walt Disney Studios Motion Pictures,"Action, Adventure, Fantasy",2007-05-19,300000000.0,309420425,651576067,32.20%,67.80%,960996492,660996492.0,6.9
+Independence Day,Twentieth Century Fox,"Action, Adventure, Sci-Fi",1996-06-25,75000000.0,306169268,511231623,37.46%,62.54%,817400891,742400891.0,6.7
+Pirates of the Caribbean: The Curse of the Black Pearl,Walt Disney Studios Motion Pictures,"Action, Adventure, Fantasy",2003-07-09,140000000.0,305413918,348850097,46.68%,53.32%,654264015,514264015.0,7.5
+Skyfall,Sony Pictures Entertainment (SPE),"Action, Adventure, Thriller",2012-10-25,200000000.0,304360277,804209222,27.46%,72.54%,1108569499,908569499.0,6.9
+The Hobbit: An Unexpected Journey,Warner Bros.,"Adventure, Fantasy",2012-11-26,250000000.0,303003568,714000000,29.79%,70.21%,1017003568,767003568.0,7.0
+Harry Potter and the Half-Blood Prince,Warner Bros.,"Action, Adventure, Family, Fantasy, Mystery",2009-07-07,250000000.0,302305431,632148664,32.35%,67.65%,934454095,684454095.0,7.4
+The Twilight Saga: Eclipse,Summit Entertainment,"Action, Adventure, Drama, Fantasy, Romance, Thriller",2010-06-23,68000000.0,300531751,397959596,43.03%,56.97%,698491347,630491347.0,5.8
+The Twilight Saga: New Moon,Summit Entertainment,"Adventure, Drama, Fantasy, Romance",2009-03-15,50000000.0,297816253,413209228,41.89%,58.11%,711025481,661025481.0,5.6
+The Sixth Sense,Walt Disney Studios Motion Pictures,"Drama, Mystery, Thriller",1999-08-06,40000000.0,293506292,379300140,43.62%,56.38%,672806432,632806432.0,7.7
+Up,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Drama, Family",2009-05-13,175000000.0,293004164,442094938,39.86%,60.14%,735099102,560099102.0,7.7
+Inception,Warner Bros.,"Action, Adventure, Sci-Fi, Thriller",2010-07-14,160000000.0,292576195,544260772,34.96%,65.04%,836836967,676836967.0,8.1
+Harry Potter and the Order of the Phoenix,Warner Bros.,"Action, Adventure, Family, Fantasy, Mystery",2007-06-28,150000000.0,292353413,649818982,31.03%,68.97%,942172395,792172395.0,7.4
+The Twilight Saga: Breaking Dawn - Part 2,Lionsgate,"Adventure, Drama, Fantasy, Romance",2012-11-13,120000000.0,292324737,537422917,35.23%,64.77%,829747654,709747654.0,6.1
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Walt Disney Studios Motion Pictures,"Adventure, Family, Fantasy",2005-12-07,180000000.0,291710957,453302158,39.16%,60.84%,745013115,565013115.0,6.7
+Man of Steel,Warner Bros.,"Action, Adventure, Sci-Fi",2013-06-12,225000000.0,291045518,377000000,43.57%,56.43%,668045518,443045518.0,6.5
+"Monsters, Inc.",Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Fantasy",2001-11-01,115000000.0,290642256,289065482,50.14%,49.86%,579707738,464707738.0,7.5
+Harry Potter and the Goblet of Fire,Warner Bros.,"Adventure, Family, Fantasy, Mystery",2005-11-05,150000000.0,290417905,606260335,32.39%,67.61%,896678240,746678240.0,7.5
+Home Alone,Twentieth Century Fox,"Comedy, Family",1990-11-09,18000000.0,285761243,190923432,59.95%,40.05%,476684675,458684675.0,7.1
+The Hunger Games: Mockingjay - Part 2,Lionsgate,"Action, Adventure, Sci-Fi, Thriller",2015-11-18,160000000.0,281723902,376620235,42.79%,57.21%,658344137,498344137.0,6.6
+The Matrix Reloaded,Warner Bros.,"Action, Sci-Fi",2003-05-15,150000000.0,281576461,460271476,37.96%,62.04%,741847937,591847937.0,6.7
+Meet the Fockers,Universal Pictures,"Comedy, Romance",2004-12-22,80000000.0,279261160,243396776,53.43%,46.57%,522657936,442657936.0,6.1
+The Hangover,Warner Bros.,Comedy,2009-06-05,35000000.0,277322503,191988333,59.09%,40.91%,469310836,434310836.0,7.2
+Gravity,Warner Bros.,"Action, Drama, Sci-Fi, Thriller",2013-09-27,105000000.0,274092705,449100000,37.90%,62.10%,723192705,618192705.0,7.3
+Monsters University,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Fantasy",2013-06-20,200000000.0,268492764,475066881,36.11%,63.89%,743559645,543559645.0,7.0
+Shrek,DreamWorks Distribution,"Adventure, Animation, Comedy, Family, Fantasy, Romance",2001-05-16,60000000.0,267665011,220188309,54.87%,45.13%,487853320,427853320.0,7.3
+Harry Potter and the Chamber of Secrets,Warner Bros.,"Adventure, Family, Fantasy, Mystery",2002-11-13,100000000.0,262450136,617152229,29.84%,70.16%,879602365,779602365.0,7.4
+The Amazing Spider-Man,Sony Pictures Entertainment (SPE),"Action, Adventure, Sci-Fi",2012-06-27,215000000.0,262030663,495900000,34.57%,65.43%,757930663,542930663.0,6.5
+The Incredibles,Walt Disney Studios Motion Pictures,"Action, Adventure, Animation, Family",2004-11-05,92000000.0,261441092,370165961,41.39%,58.61%,631607053,539607053.0,7.4
+Jaws,Universal Pictures,"Adventure, Thriller",1975-06-18,7000000.0,260758300,210653000,55.31%,44.69%,471411300,464411300.0,7.5
+How the Grinch Stole Christmas,Universal Pictures,"Comedy, Family, Fantasy",2000-11-17,123000000.0,260465005,85108027,75.37%,24.63%,345573032,222573032.0,6.2
+Captain America: The Winter Soldier,Walt Disney Studios Motion Pictures,"Action, Adventure, Sci-Fi, Thriller",2014-03-20,170000000.0,259766572,454654931,36.36%,63.64%,714421503,544421503.0,7.6
+The Hobbit: The Desolation of Smaug,Warner Bros.,"Adventure, Fantasy",2013-12-11,250000000.0,258366855,700640658,26.94%,73.06%,959007513,709007513.0,7.6
+The Lego Movie,Warner Bros.,"Action, Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",2014-02-06,60000000.0,257760692,210300000,55.07%,44.93%,468060692,408060692.0,7.5
+Star Trek,Paramount Pictures,"Action, Adventure, Sci-Fi",2009-05-06,150000000.0,257730019,127950427,66.82%,33.18%,385680446,235680446.0,7.4
+I Am Legend,Warner Bros.,"Action, Drama, Sci-Fi, Thriller",2007-12-14,150000000.0,256393010,329017042,43.80%,56.20%,585410052,435410052.0,6.9
+The Blind Side,Warner Bros.,"Biography, Drama, Sport",2009-11-20,29000000.0,255959475,53248834,82.78%,17.22%,309208309,280208309.0,7.2
+The Hobbit: The Battle of the Five Armies,Warner Bros.,"Adventure, Fantasy",2014-12-10,250000000.0,255119788,707063077,26.51%,73.49%,962182865,712182865.0,7.1
+The Hangover Part II,Warner Bros.,Comedy,2011-05-25,80000000.0,254464305,332300000,43.37%,56.63%,586764305,506764305.0,6.2
+Despicable Me,Universal Pictures,"Adventure, Animation, Comedy, Crime, Family, Sci-Fi",2010-07-08,69000000.0,251513985,291600000,46.31%,53.69%,543113985,474113985.0,7.1
+Batman,Warner Bros.,"Action, Adventure",1989-06-23,35000000.0,251348343,160160000,61.08%,38.92%,411508343,376508343.0,7.0
+Batman,Warner Bros.,"Action, Adventure",1966-07-30,1377800.0,251348343,160160000,61.08%,38.92%,411508343,410130543.0,6.1
+Night at the Museum,Twentieth Century Fox,"Adventure, Comedy, Family, Fantasy",2006-10-20,110000000.0,250863268,323617961,43.67%,56.33%,574481229,464481229.0,6.3
+Men in Black,Sony Pictures Entertainment (SPE),"Action, Adventure, Comedy, Sci-Fi",1997-07-02,90000000.0,250690539,338700000,42.53%,57.47%,589390539,499390539.0,6.9
+Harry Potter and the Prisoner of Azkaban,Warner Bros.,"Adventure, Family, Fantasy, Mystery",2004-05-31,130000000.0,249975996,547385621,31.35%,68.65%,797361617,667361617.0,7.7
+Toy Story 2,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Fantasy",1999-10-30,90000000.0,245852179,251523202,49.43%,50.57%,497375381,407375381.0,7.3
+Transformers: Age of Extinction,Paramount Pictures,"Action, Adventure, Sci-Fi",2014-06-25,210000000.0,245439076,858614996,22.23%,77.77%,1104054072,894054072.0,5.8
+Cars,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Sport",2006-06-08,120000000.0,244082982,217908885,52.83%,47.17%,461991867,341991867.0,6.6
+Ghostbusters,Columbia Pictures,"Action, Comedy, Fantasy, Sci-Fi",2016-07-14,144000000.0,243578797,53000000,82.13%,17.87%,296578797,152578797.0,5.3
+Bruce Almighty,Universal Pictures,"Comedy, Fantasy",2003-05-23,80000000.0,242829261,241763613,50.11%,49.89%,484592874,404592874.0,6.4
+Twister,Warner Bros.,"Action, Adventure, Thriller",1996-05-10,92000000.0,241721524,252750000,48.88%,51.12%,494471524,402471524.0,6.1
+My Big Fat Greek Wedding,IFC Films,"Comedy, Drama, Romance",2002-02-22,5000000.0,241438208,127305836,65.48%,34.52%,368744044,363744044.0,6.2
+Maleficent,Walt Disney Studios Motion Pictures,"Adventure, Family, Fantasy, Romance",2014-05-28,180000000.0,241410378,517001401,31.83%,68.17%,758411779,578411779.0,7.0
+Pirates of the Caribbean: On Stranger Tides,Walt Disney Studios Motion Pictures,"Action, Adventure, Fantasy",2011-05-14,380000000.0,241071802,804642000,23.05%,76.95%,1045713802,665713802.0,6.4
+Shrek Forever After,DreamWorks,"Adventure, Animation, Comedy, Family, Fantasy, Romance",2010-05-16,165000000.0,238736787,513864080,31.72%,68.28%,752600867,587600867.0,6.0
+Brave,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Fantasy",2012-06-21,185000000.0,237283207,301700000,44.02%,55.98%,538983207,353983207.0,6.7
+X-Men: The Last Stand,Twentieth Century Fox,"Action, Adventure, Sci-Fi",2006-05-24,210000000.0,234362462,226072829,50.90%,49.10%,460435291,250435291.0,6.3
+War of the Worlds,Paramount Pictures,"Action, Adventure, Sci-Fi",2005-06-28,132000000.0,234280354,369592765,38.80%,61.20%,603873119,471873119.0,6.2
+X-Men: Days of Future Past,Twentieth Century Fox,"Action, Adventure, Sci-Fi, Thriller",2014-05-15,250000000.0,233921534,512124166,31.35%,68.65%,746045700,496045700.0,7.5
+Cast Away,Twentieth Century Fox,"Adventure, Drama, Romance",2000-12-22,90000000.0,233632142,196000000,54.38%,45.62%,429632142,339632142.0,7.5
+The Exorcist,Warner Bros.,Horror,1973-12-26,8000000.0,232906145,136017945,63.13%,36.87%,368924090,360924090.0,7.5
+The Lost World: Jurassic Park,Universal Pictures,"Action, Adventure, Sci-Fi",1997-05-23,73000000.0,229086679,389552320,37.03%,62.97%,618638999,545638999.0,6.2
+Star Trek Into Darkness,Paramount Pictures,"Action, Adventure, Sci-Fi",2013-05-05,190000000.0,228778661,238586585,48.95%,51.05%,467365246,277365246.0,7.4
+The Martian,Twentieth Century Fox,"Adventure, Drama, Sci-Fi",2015-09-30,108000000.0,228433663,401728785,36.25%,63.75%,630162448,522162448.0,7.6
+Signs,Walt Disney Studios Motion Pictures,"Drama, Mystery, Sci-Fi, Thriller",2002-08-02,72000000.0,227966634,180281283,55.84%,44.16%,408247917,336247917.0,6.4
+Hancock,Sony Pictures Entertainment (SPE),"Action, Drama, Fantasy",2008-07-01,150000000.0,227946274,401497154,36.21%,63.79%,629443428,479443428.0,6.2
+The Bourne Ultimatum,Universal Pictures,"Action, Mystery, Thriller",2007-08-03,70000000.0,227471070,216628965,51.22%,48.78%,444100035,374100035.0,7.3
+Rush Hour 2,New Line Cinema,"Action, Comedy, Crime, Thriller",2001-08-03,90000000.0,226164286,121161516,65.12%,34.88%,347325802,257325802.0,6.4
+WALL·E,Walt Disney Studios Motion Pictures,"Adventure, Animation, Family, Sci-Fi",2008-06-22,180000000.0,223808164,297503726,42.93%,57.07%,521311890,341311890.0,7.8
+Big Hero 6,Walt Disney Studios Motion Pictures,"Action, Adventure, Animation, Comedy, Family, Sci-Fi",2014-10-24,165000000.0,222527828,435341858,33.83%,66.17%,657869686,492869686.0,7.8
+Alvin and the Chipmunks: The Squeakquel,Twentieth Century Fox,"Adventure, Animation, Comedy, Drama, Family, Fantasy, Music, Musical",2009-12-21,75000000.0,219614612,223525393,49.56%,50.44%,443140005,368140005.0,5.4
+Mrs. Doubtfire,Twentieth Century Fox,"Comedy, Drama, Family",1993-11-24,25000000.0,219195243,222090952,49.67%,50.33%,441286195,416286195.0,7.0
+Ted,Universal Pictures,Comedy,2012-06-29,50000000.0,218815487,330552828,39.83%,60.17%,549368315,499368315.0,6.3
+King Kong,Universal Pictures,"Action, Adventure, Drama, Romance",2005-12-14,207000000.0,218080025,338826353,39.16%,60.84%,556906378,349906378.0,6.6
+Ghost,Paramount Pictures,"Drama, Fantasy, Romance, Thriller",1990-07-12,22000000.0,217631306,288072251,43.04%,56.96%,505703557,483703557.0,6.9
+How to Train Your Dragon,DreamWorks,"Action, Adventure, Animation, Comedy, Family, Fantasy",2010-03-05,165000000.0,217581231,277298240,43.97%,56.03%,494879471,329879471.0,7.5
+The Da Vinci Code,Sony Pictures Entertainment (SPE),"Mystery, Thriller",2006-05-17,125000000.0,217536138,542470807,28.62%,71.38%,760006945,635006945.0,6.5
+Aladdin,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Fantasy, Musical, Romance",1992-11-25,28000000.0,217350219,286700000,43.12%,56.88%,504050219,476050219.0,7.4
+Alvin and the Chipmunks,Twentieth Century Fox,"Adventure, Animation, Comedy, Drama, Family, Fantasy, Music, Musical",2007-12-13,60000000.0,217326974,148025572,59.48%,40.52%,365352546,305352546.0,5.5
+Saving Private Ryan,DreamWorks Distribution,"Drama, War",1998-07-24,70000000.0,217049603,265300000,45.00%,55.00%,482349603,412349603.0,7.9
+Madagascar 3: Europe's Most Wanted,DreamWorks,"Adventure, Animation, Comedy, Family",2012-06-06,145000000.0,216391482,530529792,28.97%,71.03%,746921274,601921274.0,6.4
+Kung Fu Panda,DreamWorks,"Action, Adventure, Animation, Comedy, Family, Fantasy",2008-06-04,130000000.0,215434591,416311606,34.10%,65.90%,631746197,501746197.0,6.9
+Mission: Impossible II,Paramount Pictures,"Action, Adventure, Thriller",2000-05-24,125000000.0,215409889,330978219,39.42%,60.58%,546388108,421388108.0,5.9
+Austin Powers in Goldmember,New Line Cinema,"Action, Adventure, Comedy, Crime",2002-07-26,63000000.0,213307889,83630912,71.84%,28.16%,296938801,233938801.0,5.9
+Back to the Future,Universal Pictures,"Adventure, Comedy, Sci-Fi",1985-07-03,19000000.0,211406762,170500000,55.36%,44.64%,381906762,362906762.0,8.0
+300,Warner Bros.,"Action, Drama",2006-12-09,65000000.0,210614939,245453242,46.18%,53.82%,456068181,391068181.0,7.0
+Fast Five,Universal Pictures,"Action, Crime, Thriller",2011-04-20,125000000.0,209837675,416300000,33.51%,66.49%,626137675,501137675.0,7.1
+Mission: Impossible - Ghost Protocol,Paramount Pictures,"Action, Adventure, Thriller",2011-12-07,145000000.0,209397903,485315477,30.14%,69.86%,694713380,549713380.0,6.8
+Sherlock Holmes,Warner Bros.,"Action, Adventure, Mystery",2009-12-23,90000000.0,209028679,315000000,39.89%,60.11%,524028679,434028679.0,7.0
+Dawn of the Planet of the Apes,Twentieth Century Fox,"Action, Adventure, Drama, Sci-Fi, Thriller",2014-06-26,170000000.0,208545589,502098977,29.35%,70.65%,710644566,540644566.0,7.3
+Batman Begins,Warner Bros.,"Action, Crime, Drama",2005-06-10,150000000.0,206852432,166809514,55.36%,44.64%,373661946,223661946.0,7.5
+Charlie and the Chocolate Factory,Warner Bros.,"Adventure, Comedy, Family, Fantasy, Musical",2005-07-13,150000000.0,206459076,268509687,43.47%,56.53%,474968763,324968763.0,6.7
+Ratatouille,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Fantasy",2007-06-22,150000000.0,206445654,417280431,33.10%,66.90%,623726085,473726085.0,7.5
+Thor: The Dark World,Walt Disney Studios Motion Pictures,"Action, Adventure, Fantasy",2013-10-29,170000000.0,206362140,438421000,32.00%,68.00%,644783140,474783140.0,6.8
+Austin Powers: The Spy Who Shagged Me,New Line Cinema,"Action, Adventure, Comedy, Crime",1999-06-08,33000000.0,206040086,105976842,66.03%,33.97%,312016928,279016928.0,6.2
+Terminator 2: Judgment Day,TriStar Pictures,"Action, Sci-Fi",1991-07-01,100000000.0,205881154,312106698,39.75%,60.25%,517987852,417987852.0,7.7
+The Amazing Spider-Man 2,Sony Pictures Entertainment (SPE),"Action, Adventure, Sci-Fi",2014-04-16,200000000.0,202853933,506128390,28.61%,71.39%,708982323,508982323.0,6.5
+World War Z,Paramount Pictures,"Action, Adventure, Horror, Sci-Fi",2013-06-20,200000000.0,202807711,337648165,37.53%,62.47%,540455876,340455876.0,6.7
+The Mummy Returns,Universal Pictures,"Action, Adventure, Fantasy, Thriller",2001-04-28,98000000.0,202019785,241261119,45.57%,54.43%,443280904,345280904.0,6.0
+Armageddon,Walt Disney Studios Motion Pictures,"Action, Adventure, Sci-Fi, Thriller",1998-07-01,140000000.0,201578182,352131606,36.41%,63.59%,553709788,413709788.0,6.4
+Cinderella,Walt Disney Studios Motion Pictures,"Adventure, Drama, Family, Fantasy, Romance",2015-03-12,95000000.0,201151353,341206978,37.09%,62.91%,542358331,447358331.0,6.7
+Tangled,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Fantasy, Musical, Romance",2010-11-24,260000000.0,200821936,391640880,33.90%,66.10%,592462816,332462816.0,7.4
+Superman Returns,Warner Bros.,"Action, Adventure, Sci-Fi",2006-06-28,270000000.0,200081192,191000000,51.16%,48.84%,391081192,121081192.0,5.4
+Spectre,Sony Pictures Entertainment (SPE),"Action, Adventure, Thriller",2015-10-26,245000000.0,200074609,680606910,22.72%,77.28%,880681519,635681519.0,6.3
+Pearl Harbor,Walt Disney Studios Motion Pictures,"Action, Drama, History, Romance, War",2001-05-21,140000000.0,198542554,250678391,44.20%,55.80%,449220945,309220945.0,6.6
+Happy Feet,Warner Bros.,"Adventure, Animation, Comedy, Family, Music, Musical, Romance",2006-11-16,100000000.0,198000317,186335791,51.52%,48.48%,384336108,284336108.0,5.9
+Indiana Jones and the Last Crusade,Paramount Pictures,"Action, Adventure",1989-05-24,48000000.0,197171806,277000000,41.58%,58.42%,474171806,426171806.0,7.6
+Ice Age: Dawn of the Dinosaurs,Twentieth Century Fox,"Adventure, Animation, Comedy, Family",2009-06-29,90000000.0,196573705,690113112,22.17%,77.83%,886686817,796686817.0,6.5
+Ice Age: The Meltdown,Twentieth Century Fox,"Adventure, Animation, Comedy, Family",2006-03-23,80000000.0,195330621,471763885,29.28%,70.72%,667094506,587094506.0,6.5
+Mission: Impossible - Rogue Nation,Paramount Pictures,"Action, Adventure, Thriller",2015-07-23,150000000.0,195042377,487674259,28.57%,71.43%,682716636,532716636.0,7.1
+Twilight,Summit Entertainment,"Drama, Fantasy, Romance",2008-11-20,37000000.0,193962473,214467942,47.49%,52.51%,408430415,371430415.0,5.8
+Men in Black II,Sony Pictures Entertainment (SPE),"Action, Adventure, Comedy, Mystery, Sci-Fi",2002-07-03,140000000.0,193735288,251400000,43.52%,56.48%,445135288,305135288.0,6.0
+Madagascar,DreamWorks Distribution,"Adventure, Animation, Comedy, Family",2005-05-25,75000000.0,193595521,348468325,35.71%,64.29%,542063846,467063846.0,6.6
+22 Jump Street,Sony Pictures Entertainment (SPE),"Action, Comedy, Crime",2014-06-05,50000000.0,191719337,139614539,57.86%,42.14%,331333876,281333876.0,7.0
+Cars 2,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Sport",2011-06-11,200000000.0,191452396,368400000,34.20%,65.80%,559852396,359852396.0,5.8
+Teenage Mutant Ninja Turtles,Paramount Pictures,"Action, Adventure, Animation, Comedy, Sci-Fi",2014-08-07,125000000.0,191204754,293800000,39.42%,60.58%,485004754,360004754.0,5.8
+Grease,Paramount Pictures,"Comedy, Musical, Romance",1978-07-07,6000000.0,190071103,206200000,47.96%,52.04%,396271103,390271103.0,7.2
+Wreck-It Ralph,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",2012-11-01,165000000.0,189422889,281800000,40.20%,59.80%,471222889,306222889.0,7.1
+Interstellar,Paramount Pictures,"Adventure, Drama, Sci-Fi",2014-11-05,165000000.0,188020017,513709189,26.79%,73.21%,701729206,536729206.0,8.1
+The Polar Express,Warner Bros.,"Adventure, Animation, Comedy, Family, Fantasy, Musical",2004-11-10,165000000.0,187935490,126279964,59.81%,40.19%,314215454,149215454.0,6.4
+Gladiator,DreamWorks Distribution,"Action, Adventure, Drama",2000-05-01,103000000.0,187705427,277675375,40.33%,59.67%,465380802,362380802.0,7.9
+The Croods,Twentieth Century Fox,"Adventure, Animation, Comedy, Family, Fantasy",2013-03-20,135000000.0,187168425,400067558,31.87%,68.13%,587235983,452235983.0,6.8
+Sherlock Holmes: A Game of Shadows,Warner Bros.,"Action, Adventure, Mystery",2011-11-22,125000000.0,186848418,357000000,34.36%,65.64%,543848418,418848418.0,7.0
+The Day After Tomorrow,Twentieth Century Fox,"Action, Adventure, Sci-Fi, Thriller",2004-05-26,125000000.0,186740799,365898772,33.79%,66.21%,552639571,427639571.0,6.2
+Mr. & Mrs. Smith,Twentieth Century Fox,"Action, Comedy, Crime, Thriller",2005-06-07,110000000.0,186336279,300951367,38.24%,61.76%,487287646,377287646.0,6.5
+Snow White and the Seven Dwarfs,Walt Disney Studios Motion Pictures,"Adventure, Animation, Family, Fantasy, Musical, Romance",1937-12-20,1488423.0,184925486,184925486,50.00%,50.00%,369850972,368362549.0,6.9
+Pitch Perfect 2,Universal Pictures,"Comedy, Music",2015-05-07,29000000.0,184296230,102847849,64.18%,35.82%,287144079,258144079.0,6.8
+Dances with Wolves,Orion Pictures,"Adventure, Drama, Western",1990-11-09,22000000.0,184208848,240000000,43.42%,56.58%,424208848,402208848.0,7.6
+Batman Forever,Warner Bros.,"Action, Adventure",1995-05-31,100000000.0,184069126,152498032,54.69%,45.31%,336567158,236567158.0,5.2
+The Fugitive,Warner Bros.,"Action, Crime, Drama, Mystery, Thriller",1993-08-06,44000000.0,183875760,185000000,49.85%,50.15%,368875760,324875760.0,7.2
+The Revenant,Twentieth Century Fox,"Action, Adventure, Drama, History, Western",2015-12-25,135000000.0,183637894,349312609,34.46%,65.54%,532950503,397950503.0,7.3
+Ocean's Eleven,Warner Bros.,"Crime, Thriller",2001-12-07,85000000.0,183417150,267300000,40.69%,59.31%,450717150,365717150.0,7.2
+The Simpsons Movie,Twentieth Century Fox,"Adventure, Animation, Comedy",2007-07-25,75000000.0,183135014,353279279,34.14%,65.86%,536414293,461414293.0,6.9
+What Women Want,Paramount Pictures,"Comedy, Fantasy, Romance",2000-12-15,70000000.0,182811707,191300000,48.87%,51.13%,374111707,304111707.0,6.1
+The Perfect Storm,Warner Bros.,"Action, Adventure, Drama, Thriller",2000-03-15,120000000.0,182618434,146100000,55.55%,44.45%,328718434,208718434.0,6.2
+Lincoln,Walt Disney Studios Motion Pictures,"Biography, Drama, History, War",2012-11-09,65000000.0,182207973,93085477,66.19%,33.81%,275293450,210293450.0,6.7
+Liar Liar,Universal Pictures,"Comedy, Fantasy",1997-03-21,45000000.0,181410615,121300000,59.93%,40.07%,302710615,257710615.0,6.4
+Jurassic Park III,Universal Pictures,"Action, Adventure, Sci-Fi, Thriller",2001-07-18,93000000.0,181171875,187608934,49.13%,50.87%,368780809,275780809.0,5.7
+Thor,Paramount Pictures,"Action, Adventure, Fantasy",2011-04-21,150000000.0,181030624,268295994,40.29%,59.71%,449326618,299326618.0,6.6
+Mission: Impossible,Paramount Pictures,"Action, Adventure, Thriller",1996-05-22,80000000.0,180981856,276714535,39.54%,60.46%,457696391,377696391.0,6.7
+Ant-Man,Walt Disney Studios Motion Pictures,"Action, Adventure, Comedy, Sci-Fi",2015-07-14,130000000.0,180202163,339109802,34.70%,65.30%,519311965,389311965.0,7.0
+Planet of the Apes,Twentieth Century Fox,"Action, Adventure, Sci-Fi, Thriller",2001-07-25,100000000.0,180011740,182200000,49.70%,50.30%,362211740,262211740.0,5.6
+Madagascar: Escape 2 Africa,DreamWorks,"Adventure, Animation, Comedy, Family",2008-10-30,150000000.0,180010950,423889404,29.81%,70.19%,603900354,453900354.0,6.2
+X-Men Origins: Wolverine,Twentieth Century Fox,"Action, Sci-Fi",2009-04-28,150000000.0,179883157,193179707,48.22%,51.78%,373062864,223062864.0,6.2
+Indiana Jones and the Temple of Doom,Paramount Pictures,"Action, Adventure",1984-05-23,28000000.0,179870271,153237000,54.00%,46.00%,333107271,305107271.0,7.1
+Hitch,Sony Pictures Entertainment (SPE),"Comedy, Romance",2005-02-10,70000000.0,179495555,192098655,48.30%,51.70%,371594210,301594210.0,6.4
+Men in Black 3,Sony Pictures Entertainment (SPE),"Action, Adventure, Comedy, Sci-Fi",2012-05-23,225000000.0,179020854,445005922,28.69%,71.31%,624026776,399026776.0,6.2
+Pretty Woman,Walt Disney Studios Motion Pictures,"Comedy, Romance",1990-03-23,14000000.0,178406268,285000000,38.50%,61.50%,463406268,449406268.0,7.0
+Home,Twentieth Century Fox,"Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",2015-03-18,135000000.0,177397510,208644097,45.95%,54.05%,386041607,251041607.0,6.8
+Night at the Museum: Battle of the Smithsonian,Twentieth Century Fox,"Adventure, Comedy, Family, Fantasy",2009-05-20,150000000.0,177243721,235862449,42.91%,57.09%,413106170,263106170.0,5.9
+Tootsie,Columbia Pictures,"Comedy, Drama, Romance",1982-12-16,21000000.0,177200000,177200000,50.00%,50.00%,354400000,333400000.0,6.9
+How to Train Your Dragon 2,Twentieth Century Fox,"Action, Adventure, Animation, Comedy, Family, Fantasy",2014-06-12,145000000.0,177002924,444534595,28.48%,71.52%,621537519,476537519.0,7.6
+Rise of the Planet of the Apes,Twentieth Century Fox,"Action, Drama, Sci-Fi, Thriller",2011-08-03,93000000.0,176760185,305040688,36.69%,63.31%,481800873,388800873.0,7.0
+Captain America: The First Avenger,Paramount Pictures,"Action, Adventure, Sci-Fi",2011-07-22,140000000.0,176654505,193915269,47.67%,52.33%,370569774,230569774.0,6.6
+Elf,New Line Cinema,"Adventure, Comedy, Family, Fantasy, Romance",2003-10-09,32000000.0,176630408,47223328,78.90%,21.10%,223853736,191853736.0,6.4
+The Karate Kid,Sony Pictures Entertainment (SPE),"Action, Drama, Family, Sport",1984-06-22,8000000.0,176591618,182534404,49.17%,50.83%,359126022,351126022.0,6.9
+There's Something About Mary,Twentieth Century Fox,"Comedy, Romance",1998-07-15,23000000.0,176484651,193400000,47.71%,52.29%,369884651,346884651.0,6.5
+Ice Age,Twentieth Century Fox,"Adventure, Animation, Comedy, Family",2002-03-10,59000000.0,176387405,206869731,46.02%,53.98%,383257136,324257136.0,7.1
+The Bourne Supremacy,Universal Pictures,"Action, Mystery, Thriller",2004-07-23,75000000.0,176241941,114593328,60.60%,39.40%,290835269,215835269.0,7.2
+Apollo 13,Universal Pictures,"Adventure, Drama, History",1995-06-30,52000000.0,173837933,181077570,48.98%,51.02%,354915503,302915503.0,7.3
+Home Alone 2: Lost in New York,Twentieth Century Fox,"Adventure, Comedy, Crime, Family",1992-11-19,18000000.0,173585516,185409334,48.35%,51.65%,358994850,340994850.0,6.3
+National Treasure,Walt Disney Studios Motion Pictures,"Action, Adventure, Mystery, Thriller",2004-11-19,100000000.0,173008894,174503424,49.78%,50.22%,347512318,247512318.0,6.4
+Air Force One,Sony Pictures Entertainment (SPE),"Action, Drama, Thriller",1997-07-25,85000000.0,172956409,142200000,54.88%,45.12%,315156409,230156409.0,6.2
+Rain Man,Metro-Goldwyn-Mayer (MGM),Drama,1988-12-11,25000000.0,172825435,182000000,48.71%,51.29%,354825435,329825435.0,7.6
+TRON: Legacy,Walt Disney Studios Motion Pictures,"Action, Adventure, Sci-Fi",2010-12-10,170000000.0,172062763,228001089,43.01%,56.99%,400063852,230063852.0,6.3
+The Matrix,Warner Bros.,"Action, Sci-Fi",1999-03-30,63000000.0,171479930,295145800,36.75%,63.25%,466625730,403625730.0,7.9
+True Grit,Paramount Pictures,"Drama, Western",2010-12-22,38000000.0,171243005,81033922,67.88%,32.12%,252276927,214276927.0,7.2
+A Beautiful Mind,Universal Pictures,"Biography, Drama",2001-12-11,60000000.0,170742341,146048916,53.90%,46.10%,316791257,256791257.0,7.7
+Chicago,Miramax,"Comedy, Crime, Musical",2002-12-26,45000000.0,170687518,136089214,55.64%,44.36%,306776732,261776732.0,6.9
+The Help,Walt Disney Studios Motion Pictures,Drama,2011-08-09,25000000.0,169708112,46931000,78.34%,21.66%,216639112,191639112.0,7.8
+Hotel Transylvania 2,Sony Pictures Entertainment (SPE),"Adventure, Animation, Comedy, Family, Fantasy, Horror",2015-09-21,80000000.0,169700110,305486596,35.71%,64.29%,475186706,395186706.0,6.7
+Bridesmaids,Universal Pictures,"Comedy, Romance",2011-04-28,32500000.0,169106725,119276798,58.64%,41.36%,288383523,255883523.0,6.5
+Quantum of Solace,Sony Pictures Entertainment (SPE),"Action, Adventure, Thriller",2008-10-30,200000000.0,168368427,421212055,28.56%,71.44%,589580482,389580482.0,6.1
+Wild Hogs,Walt Disney Studios Motion Pictures,"Action, Adventure, Comedy",2007-03-02,60000000.0,168273550,85351877,66.35%,33.65%,253625427,193625427.0,5.6
+Three Men and a Baby,Walt Disney Studios Motion Pictures,"Comedy, Drama, Family",1987-11-27,11000000.0,167780960,167780960,50.00%,50.00%,335561920,324561920.0,5.8
+Gone Girl,Twentieth Century Fox,"Drama, Mystery, Thriller",2014-10-01,61000000.0,167767189,201563174,45.42%,54.58%,369330363,308330363.0,7.9
+Casino Royale,Sony Pictures Entertainment (SPE),"Action, Adventure, Thriller",2006-11-14,150000000.0,167445960,449056952,27.16%,72.84%,616502912,466502912.0,7.3
+Meet the Parents,Universal Pictures,"Comedy, Romance",2000-10-06,55000000.0,166244045,164200000,50.31%,49.69%,330444045,275444045.0,6.6
+Fifty Shades of Grey,Universal Pictures,"Drama, Romance, Thriller",2015-02-11,40000000.0,166167230,403484237,29.17%,70.83%,569651467,529651467.0,5.2
+2012,Sony Pictures Entertainment (SPE),"Action, Adventure, Sci-Fi",2009-10-10,200000000.0,166112167,625105659,20.99%,79.01%,791217826,591217826.0,5.6
+Robin Hood: Prince of Thieves,Warner Bros.,"Action, Adventure, Drama, Romance",1991-06-14,48000000.0,165493908,225000000,42.38%,57.62%,390493908,342493908.0,6.6
+Kung Fu Panda 2,DreamWorks,"Action, Adventure, Animation, Comedy, Family, Fantasy",2011-05-25,150000000.0,165249063,500443218,24.82%,75.18%,665692281,515692281.0,6.7
+Catch Me If You Can,DreamWorks Distribution,"Biography, Crime, Drama",2002-12-25,52000000.0,164615351,187498961,46.75%,53.25%,352114312,300114312.0,7.7
+The Proposal,Walt Disney Studios Motion Pictures,"Comedy, Drama, Romance",2009-06-01,40000000.0,163958031,153417000,51.66%,48.34%,317375031,277375031.0,6.7
+The Pursuit of Happyness,Sony Pictures Entertainment (SPE),"Biography, Drama",2006-12-14,55000000.0,163566459,143561166,53.26%,46.74%,307127625,252127625.0,7.7
+Big Daddy,Sony Pictures Entertainment (SPE),"Comedy, Drama",1999-06-25,34200000.0,163479795,71322100,69.62%,30.38%,234801895,200601895.0,6.1
+Clash of the Titans,Warner Bros.,"Action, Adventure, Fantasy",2010-04-01,125000000.0,163214888,330000105,33.09%,66.91%,493214993,368214993.0,5.6
+The SpongeBob Movie: Sponge Out of Water,Paramount Pictures,"Adventure, Animation, Comedy, Family, Fantasy",2015-02-05,74000000.0,162994032,162192000,50.12%,49.88%,325186032,251186032.0,5.8
+Batman Returns,Warner Bros.,"Action, Crime, Fantasy",1992-06-19,80000000.0,162902340,103990656,61.04%,38.96%,266892996,186892996.0,6.6
+Django Unchained,The Weinstein Company,"Drama, Western",2012-12-25,100000000.0,162805434,263268939,38.21%,61.79%,426074373,326074373.0,7.8
+A Bug's Life,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Fantasy",1998-11-25,120000000.0,162798565,200460294,44.82%,55.18%,363258859,243258859.0,6.8
+Jason Bourne,Universal Pictures,"Action, Thriller",2016-07-27,120000000.0,162434410,253050504,39.10%,60.90%,415484914,295484914.0,5.9
+Grown Ups,Sony Pictures Entertainment (SPE),Comedy,2010-06-24,80000000.0,162001186,109456115,59.68%,40.32%,271457301,191457301.0,6.0
+The Waterboy,Walt Disney Studios Motion Pictures,"Comedy, Sport",1998-11-06,23000000.0,161491646,24500000,86.83%,13.17%,185991646,162991646.0,5.9
+Ice Age: Continental Drift,Twentieth Century Fox,"Adventure, Animation, Comedy, Family",2012-06-26,95000000.0,161321843,715922939,18.39%,81.61%,877244782,782244782.0,6.2
+Straight Outta Compton,Universal Pictures,"Biography, Drama, History, Music",2015-08-13,28000000.0,161197785,40437206,79.95%,20.05%,201634991,173634991.0,7.7
+Die Another Day,Metro-Goldwyn-Mayer (MGM),"Action, Adventure, Thriller",2002-11-17,140000000.0,160942139,271028977,37.26%,62.74%,431971116,291971116.0,5.8
+Shark Tale,DreamWorks Distribution,"Adventure, Animation, Comedy, Family, Thriller",2004-09-20,75000000.0,160861908,213721971,42.94%,57.06%,374583879,299583879.0,5.8
+The Heat,Twentieth Century Fox,"Action, Comedy, Crime",2013-06-27,43000000.0,159582188,70348583,69.40%,30.60%,229930771,186930771.0,6.5
+Halloween,Universal Pictures,"Crime, Horror, Thriller",1978-10-25,300000.0,159342015,96272926,62.34%,37.66%,255614941,255314941.0,7.4
+Star Trek Beyond,Paramount Pictures,"Action, Adventure, Sci-Fi, Thriller",2016-07-07,185000000.0,158848340,184623476,46.25%,53.75%,343471816,158471816.0,6.6
+The Firm,Paramount Pictures,"Drama, Mystery, Thriller",1993-06-30,42000000.0,158348367,111900000,58.59%,41.41%,270248367,228248367.0,6.6
+The Longest Yard,Paramount Pictures,"Comedy, Crime, Sport",2005-05-19,82000000.0,158119460,33347096,82.58%,17.42%,191466556,109466556.0,6.2
+X-Men,Twentieth Century Fox,"Action, Adventure, Sci-Fi",2000-07-13,75000000.0,157299718,139039810,53.08%,46.92%,296339528,221339528.0,6.8
+What Lies Beneath,DreamWorks Distribution,"Drama, Horror, Mystery, Thriller",2000-07-21,100000000.0,155464351,135956000,53.35%,46.65%,291420351,191420351.0,6.3
+X-Men: Apocalypse,Twentieth Century Fox,"Action, Adventure, Sci-Fi",2016-05-18,178000000.0,155442489,388491616,28.58%,71.42%,543934105,365934105.0,6.4
+Snow White and the Huntsman,Universal Pictures,"Action, Adventure, Drama, Fantasy",2012-05-30,170000000.0,155332381,241260448,39.17%,60.83%,396592829,226592829.0,5.8
+San Andreas,Warner Bros.,"Action, Adventure, Thriller",2015-05-27,110000000.0,155190832,318818322,32.74%,67.26%,474009154,364009154.0,6.0
+Over the Hedge,DreamWorks,"Adventure, Animation, Comedy, Family",2006-04-22,80000000.0,155019340,184776550,45.62%,54.38%,339795890,259795890.0,6.3
+Fantastic Four,Twentieth Century Fox,"Action, Adventure, Fantasy, Sci-Fi",2015-08-05,120000000.0,154696080,178839854,46.38%,53.62%,333535934,213535934.0,4.4
+Mad Max: Fury Road,Warner Bros.,"Action, Adventure, Sci-Fi, Thriller",2015-05-13,150000000.0,154058340,221600410,41.01%,58.99%,375658750,225658750.0,7.2
+Jerry Maguire,Sony Pictures Entertainment (SPE),"Comedy, Drama, Romance, Sport",1996-12-06,50000000.0,153952592,119600000,56.28%,43.72%,273552592,223552592.0,6.7
+Scooby-Doo,Warner Bros.,"Adventure, Comedy, Family, Fantasy, Mystery",2002-06-14,84000000.0,153294164,122356539,55.61%,44.39%,275650703,191650703.0,5.4
+Runaway Bride,Paramount Pictures,"Comedy, Romance",1999-07-30,70000000.0,152257509,157202783,49.20%,50.80%,309460292,239460292.0,5.7
+Divergent,Lionsgate,"Action, Adventure, Mystery, Sci-Fi",2014-03-14,85000000.0,150947895,137937923,52.25%,47.75%,288885818,203885818.0,6.9
+We're the Millers,Warner Bros.,"Comedy, Crime",2013-08-07,37000000.0,150394119,119600000,55.70%,44.30%,269994119,232994119.0,6.8
+Terminator 3: Rise of the Machines,Warner Bros.,"Action, Sci-Fi",2003-07-02,200000000.0,150371112,283000000,34.70%,65.30%,433371112,233371112.0,5.9
+Daddy's Home,Paramount Pictures,"Comedy, Family",2015-12-25,50000000.0,150357137,92429000,61.93%,38.07%,242786137,192786137.0,5.8
+G.I. Joe: The Rise of Cobra,Paramount Pictures,"Action, Adventure, Sci-Fi, Thriller",2009-08-04,175000000.0,150201498,152267519,49.66%,50.34%,302469017,127469017.0,5.6
+Neighbors,Universal Pictures,Comedy,2014-05-08,18000000.0,150157400,120507734,55.48%,44.52%,270665134,252665134.0,6.2
+American Hustle,Sony Pictures Entertainment (SPE),"Crime, Drama",2013-12-12,40000000.0,150117807,101054000,59.77%,40.23%,251171807,211171807.0,6.8
+Puss in Boots,DreamWorks,"Adventure, Animation, Comedy, Family, Fantasy",2011-10-28,130000000.0,149260504,405726973,26.89%,73.11%,554987477,424987477.0,6.4
+Les Misérables,Universal Pictures,"Drama, Musical, Romance",2012-12-18,61000000.0,148809770,293489539,33.64%,66.36%,442299309,381299309.0,7.1
+Knocked Up,Universal Pictures,"Comedy, Romance",2007-06-01,30000000.0,148768917,71153500,67.65%,32.35%,219922417,189922417.0,6.2
+As Good as It Gets,Sony Pictures Entertainment (SPE),"Comedy, Drama, Romance",1997-12-19,50000000.0,148478011,165700000,47.26%,52.74%,314178011,264178011.0,7.2
+Little Fockers,Universal Pictures,"Comedy, Romance",2010-12-21,100000000.0,148438600,162211985,47.78%,52.22%,310650585,210650585.0,5.4
+Megamind,DreamWorks,"Action, Animation, Comedy, Crime, Family, Mystery, Sci-Fi, Thriller",2010-10-28,130000000.0,148415853,173469912,46.11%,53.89%,321885765,191885765.0,6.7
+Hotel Transylvania,Sony Pictures Entertainment (SPE),"Animation, Comedy, Family, Fantasy, Horror",2012-09-20,85000000.0,148313048,210062555,41.38%,58.62%,358375603,273375603.0,6.8
+Talladega Nights: The Ballad of Ricky Bobby,Sony Pictures Entertainment (SPE),"Comedy, Sport",2006-08-04,72500000.0,148213377,15148718,90.73%,9.27%,163362095,90862095.0,6.2
+Gran Torino,Warner Bros.,Drama,2008-12-09,33000000.0,148095302,121862926,54.86%,45.14%,269958228,236958228.0,7.8
+X-Men: First Class,Twentieth Century Fox,"Action, Adventure, Sci-Fi",2011-05-24,160000000.0,146408305,206208385,41.52%,58.48%,352616690,192616690.0,7.1
+Paul Blart: Mall Cop,Sony Pictures Entertainment (SPE),"Action, Comedy, Crime, Family",2009-01-15,26000000.0,146336178,37012251,79.81%,20.19%,183348429,157348429.0,5.2
+True Lies,Twentieth Century Fox,"Action, Comedy, Thriller",1994-07-14,115000000.0,146282411,232600000,38.61%,61.39%,378882411,263882411.0,6.8
+Lilo & Stitch,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Drama, Family, Fantasy, Sci-Fi",2002-06-21,80000000.0,145794338,127349813,53.38%,46.62%,273144151,193144151.0,7.1
+The Santa Clause,Walt Disney Studios Motion Pictures,"Comedy, Drama, Family, Fantasy",1994-11-10,22000000.0,145539357,45000000,76.38%,23.62%,190539357,168539357.0,6.3
+American Pie 2,Universal Pictures,Comedy,2001-08-10,30000000.0,145103595,142450000,50.46%,49.54%,287553595,257553595.0,6.0
+Taken,Twentieth Century Fox,"Action, Crime, Thriller",2008-02-18,25000000.0,145000989,81836771,63.92%,36.08%,226837760,201837760.0,7.2
+The Great Gatsby,Warner Bros.,"Drama, Romance",2013-05-10,105000000.0,144840419,208801855,40.96%,59.04%,353642274,248642274.0,7.3
+"I, Robot",Twentieth Century Fox,"Action, Mystery, Sci-Fi, Thriller",2004-07-15,120000000.0,144801023,208332875,41.00%,59.00%,353133898,233133898.0,6.7
+Lethal Weapon 3,Warner Bros.,"Action, Crime, Thriller",1992-05-15,35000000.0,144731527,177000000,44.99%,55.01%,321731527,286731527.0,6.4
+The Fast and the Furious,Universal Pictures,"Action, Crime, Thriller",2001-06-22,38000000.0,144533925,62771584,69.72%,30.28%,207305509,169305509.0,6.6
+Mamma Mia!,Universal Pictures,"Comedy, Musical, Romance",2008-07-03,52000000.0,144169664,467088155,23.59%,76.41%,611257819,559257819.0,6.4
+Doctor Dolittle,Twentieth Century Fox,"Comedy, Family, Fantasy",1998-06-22,71000000.0,144156605,150300000,48.96%,51.04%,294456605,223456605.0,5.4
+Rio,Twentieth Century Fox,"Adventure, Animation, Comedy, Family, Music, Musical",2011-04-03,90000000.0,143619809,340246709,29.68%,70.32%,483866518,393866518.0,6.5
+Kung Fu Panda 3,Twentieth Century Fox,"Action, Adventure, Animation, Comedy, Family, Fantasy",2016-01-23,145000000.0,143528619,377642206,27.54%,72.46%,521170825,376170825.0,6.7
+Juno,Fox Searchlight Pictures,"Comedy, Drama",2007-12-05,7500000.0,143495265,88877416,61.75%,38.25%,232372681,224872681.0,7.0
+Marley & Me,Twentieth Century Fox,"Comedy, Drama, Family",2008-12-25,60000000.0,143153751,112589342,55.98%,44.02%,255743093,195743093.0,6.9
+The Smurfs,Sony Pictures Entertainment (SPE),"Adventure, Animation, Comedy, Family, Fantasy",2011-07-29,110000000.0,142614158,421135165,25.30%,74.70%,563749323,453749323.0,5.5
+xXx,Revolution Studios,"Action, Adventure, Thriller",2002-08-09,70000000.0,142109382,135339000,51.22%,48.78%,277448382,207448382.0,5.8
+The Chronicles of Narnia: Prince Caspian,Walt Disney Studios Motion Pictures,"Action, Adventure, Family, Fantasy",2008-05-15,225000000.0,141621490,278044078,33.75%,66.25%,419665568,194665568.0,6.3
+Pocahontas,Walt Disney Studios Motion Pictures,"Adventure, Animation, Drama, Family, Musical, Romance",1995-06-14,55000000.0,141579773,204500000,40.91%,59.09%,346079773,291079773.0,6.7
+A Few Good Men,Columbia Pictures,"Drama, Thriller",1992-12-11,40000000.0,141340178,101900000,58.11%,41.89%,243240178,203240178.0,7.1
+Slumdog Millionaire,Fox Searchlight Pictures,"Drama, Romance",2008-05-12,15000000.0,141319928,237090614,37.35%,62.65%,378410542,363410542.0,7.6
+The Blair Witch Project,Artisan Entertainment,"Horror, Mystery",1999-07-14,60000.0,140539099,108100000,56.52%,43.48%,248639099,248579099.0,6.3
+Deep Impact,Paramount Pictures,"Action, Drama, Sci-Fi, Thriller",1998-05-08,75000000.0,140464664,209000000,40.19%,59.81%,349464664,274464664.0,5.9
+Rush Hour 3,New Line Cinema,"Action, Comedy, Crime, Thriller",2007-08-08,140000000.0,140125968,117971154,54.29%,45.71%,258097122,118097122.0,6.1
+Stuart Little,Sony Pictures Entertainment (SPE),"Adventure, Comedy, Family, Fantasy",1999-12-17,133000000.0,140035367,160100000,46.66%,53.34%,300135367,167135367.0,5.8
+Taken 2,Twentieth Century Fox,"Action, Crime, Thriller",2012-09-27,45000000.0,139854287,236298168,37.18%,62.82%,376152455,331152455.0,6.1
+The Matrix Revolutions,Warner Bros.,"Action, Sci-Fi",2003-11-05,150000000.0,139313948,288030377,32.60%,67.40%,427344325,277344325.0,6.4
+The Santa Clause 2,Walt Disney Studios Motion Pictures,"Comedy, Family, Fantasy",2002-10-31,65000000.0,139236327,33618738,80.55%,19.45%,172855065,107855065.0,5.5
+The King's Speech,The Weinstein Company,"Biography, Drama, History",2010-09-06,15000000.0,138797449,288576868,32.48%,67.52%,427374317,412374317.0,7.6
+Cheaper by the Dozen,Twentieth Century Fox,"Comedy, Family",2003-12-24,40000000.0,138614544,51924086,72.75%,27.25%,190538630,150538630.0,6.0
+Bad Boys II,Sony Pictures Entertainment (SPE),"Action, Comedy, Crime, Thriller",2003-07-18,130000000.0,138608444,134731112,50.71%,49.29%,273339556,143339556.0,6.3
+Platoon,Orion Pictures,"Drama, War",1986-12-18,6000000.0,138530565,15067,99.99%,0.01%,138545632,132545632.0,7.5
+21 Jump Street,Sony Pictures Entertainment (SPE),"Action, Comedy, Crime",2012-03-12,42000000.0,138447667,63137661,68.68%,31.32%,201585328,159585328.0,6.7
+Good Will Hunting,Miramax,"Drama, Romance",1997-12-05,10000000.0,138433435,87500000,61.27%,38.73%,225933435,215933435.0,7.9
+A Christmas Carol,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Drama, Family, Fantasy",2009-11-04,200000000.0,137855863,187430783,42.38%,57.62%,325286646,125286646.0,6.6
+Dinosaur,Walt Disney Studios Motion Pictures,"Adventure, Animation, Drama, Family, Fantasy",2000-05-19,127500000.0,137748063,212074702,39.38%,60.62%,349822765,222322765.0,6.2
+The Conjuring,Warner Bros.,"Horror, Mystery, Thriller",2013-07-18,13000000.0,137400141,182890848,42.90%,57.10%,320290989,307290989.0,7.4
+Click,Revolution Studios,"Comedy, Drama, Fantasy, Romance",2006-06-22,82500000.0,137355633,103329693,57.07%,42.93%,240685326,158185326.0,6.0
+The Green Mile,Warner Bros.,"Crime, Drama, Fantasy, Mystery",1999-12-10,60000000.0,136801374,150000000,47.70%,52.30%,286801374,226801374.0,8.2
+Ransom,Walt Disney Studios Motion Pictures,"Action, Crime, Thriller",1996-11-08,80000000.0,136492681,173000000,44.10%,55.90%,309492681,229492681.0,6.4
+Argo,Warner Bros.,"Biography, Drama, Thriller",2012-10-11,44500000.0,136025503,96300000,58.55%,41.45%,232325503,187825503.0,7.1
+Chicken Little,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",2005-11-04,150000000.0,135386665,179046172,43.06%,56.94%,314432837,164432837.0,5.6
+Teenage Mutant Ninja Turtles,New Line Cinema,"Action, Adventure, Comedy, Family, Sci-Fi",2014-08-07,125000000.0,135265915,66700000,66.97%,33.03%,201965915,76965915.0,5.8
+Patch Adams,Universal Pictures,"Biography, Comedy, Drama, Romance",1998-12-25,50000000.0,135026902,67266000,66.75%,33.25%,202292902,152292902.0,7.0
+The Godfather,Paramount Pictures,"Crime, Drama",1972-03-14,6000000.0,134966411,111154575,54.84%,45.16%,246120986,240120986.0,8.4
+Ride Along,Universal Pictures,"Action, Comedy, Crime",2014-01-07,25000000.0,134938200,19530702,87.36%,12.64%,154468902,129468902.0,6.1
+The Incredible Hulk,Universal Pictures,"Action, Adventure, Sci-Fi",2008-06-12,150000000.0,134806913,129964083,50.91%,49.09%,264770996,114770996.0,6.1
+Live Free or Die Hard,Twentieth Century Fox,"Action, Thriller",2007-06-20,110000000.0,134529403,253626608,34.66%,65.34%,388156011,278156011.0,6.4
+Wanted,Universal Pictures,"Action, Crime, Thriller",2008-06-19,75000000.0,134508551,207954512,39.28%,60.72%,342463063,267463063.0,6.4
+Identity Thief,Universal Pictures,"Comedy, Crime, Drama",2013-02-07,35000000.0,134506920,39458090,77.32%,22.68%,173965010,138965010.0,5.6
+Superman,Warner Bros.,"Action, Adventure, Sci-Fi",1978-12-13,55000000.0,134451603,166000000,44.75%,55.25%,300451603,245451603.0,6.9
+The Rock,Walt Disney Studios Motion Pictures,"Action, Adventure, Thriller",1996-06-06,75000000.0,134069511,200993110,40.01%,59.99%,335062621,260062621.0,6.9
+Mission: Impossible III,Paramount Pictures,"Action, Adventure, Thriller",2006-05-03,150000000.0,134029801,264449696,33.64%,66.36%,398479497,248479497.0,6.5
+Grown Ups 2,Sony Pictures Entertainment (SPE),Comedy,2013-07-11,80000000.0,133668525,113315753,54.12%,45.88%,246984278,166984278.0,5.8
+Troy,Warner Bros.,"Drama, History",2004-05-13,175000000.0,133378256,364031596,26.81%,73.19%,497409852,322409852.0,6.9
+Angels & Demons,Sony Pictures Entertainment (SPE),"Action, Mystery, Thriller",2009-05-13,150000000.0,133375846,352554970,27.45%,72.55%,485930816,335930816.0,6.5
+Alvin and the Chipmunks: Chipwrecked,Twentieth Century Fox,"Adventure, Animation, Comedy, Family, Fantasy, Music, Musical",2011-12-14,75000000.0,133110742,209584693,38.84%,61.16%,342695435,267695435.0,5.4
+Bringing Down the House,Walt Disney Studios Motion Pictures,Comedy,2003-03-07,20000000.0,132716677,32013002,80.57%,19.43%,164729679,144729679.0,5.4
+The Wolverine,Twentieth Century Fox,"Action, Sci-Fi",2013-07-23,120000000.0,132556852,282271394,31.95%,68.05%,414828246,294828246.0,6.3
+The Departed,Warner Bros.,"Crime, Drama, Thriller",2006-10-05,90000000.0,132384315,159081058,45.42%,54.58%,291465373,201465373.0,7.9
+Hulk,Universal Pictures,"Action, Sci-Fi",2003-06-19,137000000.0,132177234,113107931,53.89%,46.11%,245285165,108285165.0,5.3
+Silver Linings Playbook,The Weinstein Company,"Comedy, Drama, Romance",2012-09-08,21000000.0,132092958,104319495,55.87%,44.13%,236412453,215412453.0,6.9
+Minority Report,Twentieth Century Fox,"Action, Crime, Mystery, Sci-Fi, Thriller",2002-06-20,102000000.0,132072926,226300000,36.85%,63.15%,358372926,256372926.0,7.1
+Fantastic 4: Rise of the Silver Surfer,Twentieth Century Fox,"Action, Adventure, Fantasy, Sci-Fi",2007-06-13,130000000.0,131921738,169991393,43.70%,56.30%,301913131,171913131.0,5.4
+The Last Airbender,Paramount Pictures,"Action, Adventure, Family, Fantasy",2010-06-30,150000000.0,131772187,187941694,41.22%,58.78%,319713881,169713881.0,4.7
+Rio 2,Twentieth Century Fox,"Adventure, Animation, Comedy, Family, Music, Musical",2014-03-19,103000000.0,131538435,367242682,26.37%,73.63%,498781117,395781117.0,6.3
+Lara Croft: Tomb Raider,Paramount Pictures,"Action, Adventure, Fantasy, Thriller",2001-06-11,115000000.0,131168070,143535270,47.75%,52.25%,274703340,159703340.0,5.7
+The Silence of the Lambs,Orion Pictures,"Crime, Drama, Horror, Thriller",1991-02-01,19000000.0,130742922,142000000,47.94%,52.06%,272742922,253742922.0,8.1
+The Flintstones,Universal Pictures,"Comedy, Family, Fantasy",1994-05-26,46000000.0,130531208,211100000,38.21%,61.79%,341631208,295631208.0,5.0
+Lethal Weapon 4,Warner Bros.,"Action, Crime, Thriller",1998-07-10,140000000.0,130444603,155000000,45.70%,54.30%,285444603,145444603.0,6.3
+Get Smart,Warner Bros.,"Action, Adventure, Comedy",2008-06-19,80000000.0,130319208,100366245,56.49%,43.51%,230685453,150685453.0,6.0
+The Peanuts Movie,Twentieth Century Fox,"Adventure, Animation, Comedy, Drama, Family",2015-11-05,99000000.0,130178411,116054702,52.87%,47.13%,246233113,147233113.0,6.5
+American Gangster,Universal Pictures,"Biography, Crime, Drama",2007-11-02,100000000.0,130164645,139590785,48.25%,51.75%,269755430,169755430.0,7.4
+American Beauty,DreamWorks Distribution,Drama,1999-09-15,15000000.0,130096601,226200000,36.51%,63.49%,356296601,341296601.0,7.9
+The Nutty Professor,Universal Pictures,"Comedy, Romance, Sci-Fi",1996-06-26,54000000.0,128814019,145147000,47.02%,52.98%,273961019,219961019.0,5.4
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Twentieth Century Fox,Comedy,2006-11-01,18000000.0,128505958,134046935,48.94%,51.06%,262552893,244552893.0,6.5
+Ghostbusters,Sony Pictures Entertainment (SPE),"Action, Comedy, Fantasy, Sci-Fi",2016-07-14,144000000.0,128350574,100796935,56.01%,43.99%,229147509,85147509.0,5.3
+Robots,Twentieth Century Fox,"Adventure, Animation, Comedy, Family, Romance, Sci-Fi",2005-03-10,75000000.0,128200012,134311478,48.84%,51.16%,262511490,187511490.0,6.0
+"Crouching Tiger, Hidden Dragon",Sony Pictures Classics,"Action, Adventure, Drama, Fantasy, Romance",2000-10-01,17000000.0,128078872,85446864,59.98%,40.02%,213525736,196525736.0,7.2
+Shutter Island,Paramount Pictures,"Mystery, Thriller",2010-02-18,80000000.0,128012934,166792763,43.42%,56.58%,294805697,214805697.0,7.8
+Into the Woods,Walt Disney Studios Motion Pictures,"Adventure, Comedy, Drama, Fantasy, Musical",2014-12-25,50000000.0,128002372,84900000,60.12%,39.88%,212902372,162902372.0,5.6
+Enchanted,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Fantasy, Musical, Romance",2007-11-20,85000000.0,127807262,212680574,37.54%,62.46%,340487836,255487836.0,6.6
+The Curious Case of Benjamin Button,Paramount Pictures,"Drama, Fantasy, Romance",2008-11-24,150000000.0,127509326,208293460,37.97%,62.03%,335802786,185802786.0,7.3
+Central Intelligence,Warner Bros.,"Action, Comedy, Crime",2016-06-15,50000000.0,127440871,89531672,58.74%,41.26%,216972543,166972543.0,6.2
+Anchorman 2: The Legend Continues,Paramount Pictures,Comedy,2013-12-18,50000000.0,127352707,46297224,73.34%,26.66%,173649931,123649931.0,6.0
+Sweet Home Alabama,Walt Disney Studios Motion Pictures,"Comedy, Romance",2002-09-26,30000000.0,127223418,53399006,70.44%,29.56%,180622424,150622424.0,6.0
+Dumb and Dumber,New Line Cinema,Comedy,1994-12-16,16000000.0,127175374,120100000,51.43%,48.57%,247275374,231275374.0,6.5
+2 Fast 2 Furious,Universal Pictures,"Action, Crime, Thriller",2003-06-05,76000000.0,127154901,109195760,53.80%,46.20%,236350661,160350661.0,6.2
+My Best Friend's Wedding,Sony Pictures Entertainment (SPE),"Comedy, Drama, Romance",1997-06-19,38000000.0,127120029,172168576,42.47%,57.53%,299288605,261288605.0,6.3
+Super 8,Paramount Pictures,"Action, Mystery, Sci-Fi, Thriller",2011-06-08,50000000.0,127004179,133091807,48.83%,51.17%,260095986,210095986.0,6.6
+The World Is Not Enough,Metro-Goldwyn-Mayer (MGM),"Action, Adventure, Thriller",1999-11-08,135000000.0,126943684,234888716,35.08%,64.92%,361832400,226832400.0,6.0
+Lucy,Universal Pictures,"Action, Sci-Fi, Thriller",2014-07-14,40000000.0,126663600,332200000,27.60%,72.40%,458863600,418863600.0,6.3
+The Legend of Tarzan,Warner Bros.,"Action, Adventure, Drama, Fantasy, Romance",2016-06-29,180000000.0,126643061,230057296,35.50%,64.50%,356700357,176700357.0,5.5
+Bee Movie,DreamWorks,"Adventure, Animation, Comedy, Drama, Family",2007-10-28,150000000.0,126631277,166883059,43.14%,56.86%,293514336,143514336.0,5.7
+Prometheus,Twentieth Century Fox,"Adventure, Mystery, Sci-Fi",2012-05-30,130000000.0,126477084,276877385,31.36%,68.64%,403354469,273354469.0,6.3
+Safe House,Universal Pictures,"Action, Thriller",2012-02-09,85000000.0,126373434,81702771,60.73%,39.27%,208076205,123076205.0,6.3
+Mr. Deeds,Sony Pictures Entertainment (SPE),"Comedy, Romance",2002-06-28,50000000.0,126293452,44976083,73.74%,26.26%,171269535,121269535.0,5.6
+The Truman Show,Paramount Pictures,"Comedy, Drama",1998-06-04,60000000.0,125618201,138500000,47.56%,52.44%,264118201,204118201.0,7.8
+Erin Brockovich,Universal Pictures,"Biography, Drama",2000-03-17,52000000.0,125595205,130676081,49.01%,50.99%,256271286,204271286.0,7.1
+Ocean's Twelve,Warner Bros.,"Crime, Thriller",2004-12-09,110000000.0,125544280,237200000,34.61%,65.39%,362744280,252744280.0,6.4
+Terminator Salvation,Warner Bros.,"Action, Sci-Fi",2009-05-20,200000000.0,125322469,246030532,33.75%,66.25%,371353001,171353001.0,5.9
+Charlie's Angels,Sony Pictures Entertainment (SPE),"Action, Adventure, Comedy, Crime, Thriller",2000-11-02,92000000.0,125305545,138800000,47.45%,52.55%,264105545,172105545.0,5.6
+Tomorrow Never Dies,Metro-Goldwyn-Mayer (MGM),"Action, Adventure, Thriller",1997-12-11,110000000.0,125304276,207706792,37.63%,62.37%,333011068,223011068.0,6.0
+Lone Survivor,Universal Pictures,"Action, Biography, Drama, War",2013-12-24,40000000.0,125095601,29707311,80.81%,19.19%,154802912,114802912.0,7.4
+The Vow,Screen Gems,"Drama, Romance",2012-02-05,30000000.0,125014030,71100540,63.75%,36.25%,196114570,166114570.0,7.0
+Life of Pi,Twentieth Century Fox,"Adventure, Drama, Fantasy",2012-11-20,120000000.0,124987023,484029542,20.52%,79.48%,609016565,489016565.0,7.2
+The Fault in Our Stars,Twentieth Century Fox,"Drama, Romance",2014-05-16,12000000.0,124872350,182294484,40.65%,59.35%,307166834,295166834.0,7.6
+Cloudy with a Chance of Meatballs,Sony Pictures Entertainment (SPE),"Adventure, Animation, Comedy, Drama, Family, Fantasy, Sci-Fi",2009-09-17,100000000.0,124870275,118135851,51.39%,48.61%,243006126,143006126.0,6.5
+The Devil Wears Prada,Twentieth Century Fox,"Comedy, Drama",2006-06-30,35000000.0,124740460,201965655,38.18%,61.82%,326706115,291706115.0,7.0
+Something's Gotta Give,Sony Pictures Entertainment (SPE),"Comedy, Drama, Romance",2003-12-12,80000000.0,124728738,140600000,47.01%,52.99%,265328738,185328738.0,6.3
+Traffic,USA Films,"Crime, Drama, Thriller",2000-12-27,48000000.0,124115725,83400000,59.81%,40.19%,207515725,159515725.0,6.9
+Rango,Paramount Pictures,"Action, Adventure, Animation, Comedy, Family, Western",2011-03-02,135000000.0,123477607,122246996,50.25%,49.75%,245724603,110724603.0,6.6
+Nutty Professor II: The Klumps,Universal Pictures,"Comedy, Romance, Sci-Fi",2000-07-27,84000000.0,123309890,43030000,74.13%,25.87%,166339890,82339890.0,4.7
+The Good Dinosaur,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Drama, Family",2015-11-14,175000000.0,123087120,209120551,37.05%,62.95%,332207671,157207671.0,6.6
+G.I. Joe: Retaliation,Paramount Pictures,"Action, Adventure, Sci-Fi, Thriller",2013-03-26,130000000.0,122523060,253217645,32.61%,67.39%,375740705,245740705.0,5.4
+Clear and Present Danger,Paramount Pictures,"Action, Crime, Drama, Thriller",1994-08-03,62000000.0,122187717,93700000,56.60%,43.40%,215887717,153887717.0,6.4
+The Hunt for Red October,Paramount Pictures,"Action, Adventure, Thriller",1990-03-02,30000000.0,122012643,78500000,60.85%,39.15%,200512643,170512643.0,7.2
+The Bodyguard,Warner Bros.,"Action, Drama, Music, Romance, Thriller",1992-11-25,25000000.0,122006740,289000000,29.68%,70.32%,411006740,386006740.0,6.1
+Wayne's World,Paramount Pictures,"Comedy, Music",1992-02-14,20000000.0,121697323,61400000,66.47%,33.53%,183097323,163097323.0,6.5
+The Bourne Identity,Universal Pictures,"Action, Mystery, Thriller",2002-06-14,60000000.0,121661683,92372541,56.84%,43.16%,214034224,154034224.0,7.3
+Superbad,Sony Pictures Entertainment (SPE),Comedy,2007-08-17,20000000.0,121463226,49349300,71.11%,28.89%,170812526,150812526.0,7.0
+Speed,Twentieth Century Fox,"Action, Adventure, Thriller",1994-06-09,30000000.0,121248145,229200000,34.60%,65.40%,350448145,320448145.0,6.8
+50 First Dates,Sony Pictures Entertainment (SPE),"Comedy, Drama, Romance",2004-02-13,75000000.0,120908074,77612860,60.90%,39.10%,198520934,123520934.0,6.6
+Inglourious Basterds,The Weinstein Company,"Adventure, Drama, War",2009-08-18,70000000.0,120540719,200917028,37.50%,62.50%,321457747,251457747.0,7.9
+Seabiscuit,Universal Pictures,"Drama, History, Sport",2003-07-22,87000000.0,120277854,28058591,81.08%,18.92%,148336445,61336445.0,6.7
+Four Christmases,Warner Bros.,"Comedy, Drama, Romance",2008-11-26,80000000.0,120146040,43966681,73.21%,26.79%,164112721,84112721.0,5.3
+The Mask,New Line Cinema,"Action, Comedy, Crime, Fantasy",1994-07-29,23000000.0,119938730,231644677,34.11%,65.89%,351583407,328583407.0,6.6
+Cloudy with a Chance of Meatballs 2,Sony Pictures Entertainment (SPE),"Adventure, Animation, Comedy, Drama, Family, Fantasy, Sci-Fi",2013-09-26,78000000.0,119793567,154532382,43.67%,56.33%,274325949,196325949.0,6.4
+Hook,TriStar Pictures,"Adventure, Comedy, Family, Fantasy",1991-12-11,70000000.0,119654823,181200000,39.77%,60.23%,300854823,230854823.0,6.6
+Walk the Line,Twentieth Century Fox,"Biography, Drama, Music, Romance",2005-09-13,28000000.0,119519402,67278584,63.98%,36.02%,186797986,158797986.0,7.3
+G-Force,Walt Disney Studios Motion Pictures,"Action, Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",2009-07-21,150000000.0,119436770,173381128,40.79%,59.21%,292817898,142817898.0,5.1
+Total Recall,Sony Pictures Entertainment (SPE),"Action, Adventure, Sci-Fi",1990-06-01,65000000.0,119412921,141905000,45.70%,54.30%,261317921,196317921.0,7.1
+The Other Guys,Sony Pictures Entertainment (SPE),"Action, Comedy, Crime",2010-08-06,100000000.0,119219978,51238944,69.94%,30.06%,170458922,70458922.0,6.1
+Fahrenheit 9/11,Lionsgate,"Documentary, Drama, War",2004-06-25,6000000.0,119194771,103252111,53.58%,46.42%,222446882,216446882.0,6.8
+Back to the Future Part II,Universal Pictures,"Adventure, Comedy, Sci-Fi",1989-11-20,40000000.0,119000002,213500000,35.79%,64.21%,332500002,292500002.0,7.4
+The Sum of All Fears,Paramount Pictures,"Action, Drama, Thriller, War",2002-05-31,68000000.0,118907036,75014336,61.32%,38.68%,193921372,125921372.0,5.9
+Hairspray,New Line Cinema,"Comedy, Drama, Musical, Romance",2007-07-13,50000000.0,118871849,84681462,58.40%,41.60%,203553311,153553311.0,6.5
+The Break-Up,Universal Pictures,"Comedy, Drama, Romance",2006-06-01,52000000.0,118703275,86964935,57.72%,42.28%,205668210,153668210.0,5.6
+Blades of Glory,DreamWorks,"Comedy, Sport",2007-03-30,53000000.0,118594548,27115799,81.39%,18.61%,145710347,92710347.0,5.9
+Salt,Sony Pictures Entertainment (SPE),"Action, Thriller",2010-07-21,110000000.0,118311368,175191986,40.31%,59.69%,293503354,183503354.0,6.2
+Now You See Me,Lionsgate,"Crime, Mystery, Thriller",2013-05-29,75000000.0,117723989,234000000,33.47%,66.53%,351723989,276723989.0,7.3
+Big Momma's House,Twentieth Century Fox,"Action, Comedy, Crime",2000-05-31,30000000.0,117559438,56400000,67.58%,32.42%,173959438,143959438.0,5.6
+Die Hard 2,Twentieth Century Fox,"Action, Thriller",1990-07-02,70000000.0,117540947,122490327,48.97%,51.03%,240031274,170031274.0,6.6
+Horrible Bosses,Warner Bros.,"Comedy, Crime",2011-07-08,35000000.0,117538559,92300000,56.01%,43.99%,209838559,174838559.0,6.5
+Jackass 3D,Paramount Pictures,"Action, Comedy, Documentary",2010-10-15,20000000.0,117229692,54456100,68.28%,31.72%,171685792,151685792.0,6.4
+Ocean's Thirteen,Warner Bros.,"Crime, Thriller",2007-06-07,85000000.0,117154724,194157900,37.63%,62.37%,311312624,226312624.0,6.5
+S.W.A.T.,Sony Pictures Entertainment (SPE),"Action, Adventure, Crime, Thriller",2003-08-08,80000000.0,116934650,90790989,56.29%,43.71%,207725639,127725639.0,5.8
+The Wolf of Wall Street,Paramount Pictures,"Biography, Comedy, Crime, Drama",2013-12-25,100000000.0,116900694,275100000,29.82%,70.18%,392000694,292000694.0,7.9
+8 Mile,Universal Pictures,"Drama, Music",2002-11-08,41000000.0,116750901,126124177,48.07%,51.93%,242875078,201875078.0,6.8
+Double Jeopardy,Paramount Pictures,"Crime, Drama, Mystery, Thriller",1999-09-24,70000000.0,116741558,61100000,65.64%,34.36%,177841558,107841558.0,6.2
+Green Lantern,Warner Bros.,"Action, Adventure, Sci-Fi",2011-06-16,200000000.0,116601172,103250000,53.04%,46.96%,219851172,19851172.0,5.1
+Notting Hill,Universal Pictures,"Comedy, Drama, Romance",1999-05-13,42000000.0,116089678,247800000,31.90%,68.10%,363889678,321889678.0,7.0
+You've Got Mail,Warner Bros.,"Comedy, Drama, Romance",1998-12-17,65000000.0,115821495,135000000,46.18%,53.82%,250821495,185821495.0,6.3
+Ghost Rider,Sony Pictures Entertainment (SPE),"Action, Fantasy, Thriller",2007-02-16,110000000.0,115802596,112935797,50.63%,49.37%,228738393,118738393.0,5.2
+Remember the Titans,Walt Disney Studios Motion Pictures,"Biography, Drama, Sport",2000-09-29,30000000.0,115719751,21051932,84.61%,15.39%,136771683,106771683.0,7.4
+District 9,TriStar Pictures,"Action, Sci-Fi, Thriller",2009-08-05,30000000.0,115646235,95242715,54.84%,45.16%,210888950,180888950.0,7.3
+Unbroken,Universal Pictures,"Action, Biography, Drama, Sport, War",2014-12-25,65000000.0,115637895,45821402,71.62%,28.38%,161459297,96459297.0,7.3
+The Village,Walt Disney Studios Motion Pictures,"Drama, Mystery, Thriller",2004-07-30,60000000.0,114197520,142500000,44.49%,55.51%,256697520,196697520.0,6.2
+Bolt,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Crime, Drama, Family, Sci-Fi",2008-11-21,150000000.0,114053579,195926415,36.79%,63.21%,309979994,159979994.0,6.3
+Wild Wild West,Warner Bros.,"Action, Comedy, Sci-Fi, Western",1999-06-29,170000000.0,113804681,108300000,51.24%,48.76%,222104681,52104681.0,5.1
+Night at the Museum: Secret of the Tomb,Twentieth Century Fox,"Adventure, Comedy, Family, Fantasy",2014-12-17,127000000.0,113746621,249458014,31.32%,68.68%,363204635,236204635.0,6.1
+Magic Mike,Warner Bros.,"Comedy, Drama",2012-06-28,7000000.0,113721571,54018390,67.80%,32.20%,167739961,160739961.0,6.1
+The Addams Family,Paramount Pictures,"Comedy, Fantasy",1991-11-22,30000000.0,113502426,78000000,59.27%,40.73%,191502426,161502426.0,6.7
+The Patriot,Sony Pictures Entertainment (SPE),"Action, Drama, History, War",2000-06-28,110000000.0,113330342,101964000,52.64%,47.36%,215294342,105294342.0,6.8
+Bad Moms,STX Entertainment,Comedy,2016-07-28,20000000.0,113257297,70678777,61.57%,38.43%,183936074,163936074.0,6.3
+The Bourne Legacy,Universal Pictures,"Action, Adventure, Thriller",2012-08-08,130000000.0,113203870,162940880,40.99%,59.01%,276144750,146144750.0,6.0
+The Pacifier,Walt Disney Studios Motion Pictures,"Action, Comedy, Drama, Family",2005-03-04,56000000.0,113086868,85550000,56.93%,43.07%,198636868,142636868.0,5.8
+Dr. Dolittle 2,Twentieth Century Fox,"Comedy, Family, Fantasy",2001-06-22,70000000.0,112952899,63151445,64.14%,35.86%,176104344,106104344.0,4.9
+It's Complicated,Universal Pictures,"Comedy, Drama, Romance",2009-12-23,85000000.0,112735375,106368280,51.45%,48.55%,219103655,134103655.0,6.2
+Spy Kids,Miramax,"Action, Adventure, Comedy, Family, Sci-Fi",2001-03-18,35000000.0,112719001,35215179,76.20%,23.80%,147934180,112934180.0,5.5
+Face/Off,Paramount Pictures,"Action, Crime, Sci-Fi, Thriller",1997-06-27,80000000.0,112276146,133400000,45.70%,54.30%,245676146,165676146.0,6.8
+Twins,Universal Pictures,"Comedy, Crime",1988-12-09,15000000.0,111938388,104676000,51.68%,48.32%,216614388,201614388.0,5.7
+Spy Kids 3-D: Game Over,Dimension Films,"Action, Adventure, Comedy, Family, Sci-Fi",2003-07-25,38000000.0,111761982,85339696,56.70%,43.30%,197101678,159101678.0,4.7
+Enemy of the State,Walt Disney Studios Motion Pictures,"Action, Thriller",1998-11-20,90000000.0,111549836,139299953,44.47%,55.53%,250849789,160849789.0,6.7
+Mr. Peabody & Sherman,Twentieth Century Fox,"Adventure, Animation, Comedy, Family, Fantasy, History, Sci-Fi",2014-02-07,145000000.0,111506430,164191609,40.45%,59.55%,275698039,130698039.0,6.7
+The Last Samurai,Warner Bros.,"Action, Drama",2003-12-05,140000000.0,111127263,343500000,24.44%,75.56%,454627263,314627263.0,7.3
+Tropic Thunder,DreamWorks,"Action, Comedy, War",2008-08-09,92000000.0,110515313,85187650,56.47%,43.53%,195702963,103702963.0,6.5
+Valentine's Day,Warner Bros.,"Comedy, Romance",2010-02-10,52000000.0,110485654,106000000,51.04%,48.96%,216485654,164485654.0,5.7
+The Grudge,Sony Pictures Entertainment (SPE),"Horror, Mystery, Thriller",2004-10-22,10000000.0,110359362,76921753,58.93%,41.07%,187281115,177281115.0,5.8
+Fun with Dick and Jane,Sony Pictures Entertainment (SPE),"Comedy, Crime",2005-12-21,100000000.0,110332737,94349162,53.90%,46.10%,204681899,104681899.0,5.9
+Freaky Friday,Walt Disney Studios Motion Pictures,"Comedy, Family, Fantasy, Music, Romance",2003-08-03,26000000.0,110230332,50616000,68.53%,31.47%,160846332,134846332.0,6.0
+Trainwreck,Universal Pictures,"Comedy, Drama, Romance",2015-07-17,35000000.0,110212700,30583093,78.28%,21.72%,140795793,105795793.0,5.9
+Bedtime Stories,Walt Disney Studios Motion Pictures,"Adventure, Comedy, Family, Fantasy, Romance, Sci-Fi",2008-12-24,80000000.0,110101975,102772889,51.72%,48.28%,212874864,132874864.0,5.9
+Scary Movie 3,Dimension Films,Comedy,2003-10-24,48000000.0,110003217,110670000,49.85%,50.15%,220673217,172673217.0,5.8
+Creed,Warner Bros.,"Action, Drama, Sport",2015-11-25,37000000.0,109767581,63800000,63.24%,36.76%,173567581,136567581.0,7.3
+Star Trek IV: The Voyage Home,Paramount Pictures,"Action, Adventure, Comedy, Sci-Fi",1986-11-25,24000000.0,109713132,109713132,50.00%,50.00%,219426264,195426264.0,6.9
+Couples Retreat,Universal Pictures,Comedy,2009-09-19,70000000.0,109204945,62639895,63.55%,36.45%,171844840,101844840.0,5.3
+A Time to Kill,Warner Bros.,"Crime, Drama, Thriller",1996-07-24,40000000.0,108766007,43500000,71.43%,28.57%,152266007,112266007.0,7.0
+Black Hawk Down,Revolution Studios,"Action, Drama, History, War",2001-12-28,92000000.0,108638745,64350906,62.80%,37.20%,172989651,80989651.0,7.2
+Ace Ventura: When Nature Calls,Warner Bros.,"Adventure, Comedy, Crime",1995-11-10,30000000.0,108385533,104000000,51.03%,48.97%,212385533,182385533.0,6.1
+The Princess Diaries,Walt Disney Studios Motion Pictures,"Comedy, Family, Romance",2001-08-03,37000000.0,108248956,57086197,65.47%,34.53%,165335153,128335153.0,6.5
+Superman II,Warner Bros.,"Action, Adventure, Sci-Fi",1980-12-04,54000000.0,108185706,108185706,50.00%,50.00%,216371412,162371412.0,6.5
+Little Women,Sony Pictures Entertainment (SPE),"Drama, Romance",1994-12-21,18000000.0,108101214,108500000,49.91%,50.09%,216601214,198601214.0,7.0
+Hop,Universal Pictures,"Adventure, Animation, Comedy, Family, Fantasy",2011-03-30,63000000.0,108085305,75868840,58.76%,41.24%,183954145,120954145.0,5.5
+Pulp Fiction,Miramax,"Crime, Drama",1994-10-08,8000000.0,107928762,106000000,50.45%,49.55%,213928762,205928762.0,8.3
+Paranormal Activity,Paramount Pictures,"Horror, Mystery",2007-09-14,15000.0,107918810,85436990,55.81%,44.19%,193355800,193340800.0,5.9
+A League of Their Own,Sony Pictures Entertainment (SPE),"Comedy, Drama, Sport",1992-07-01,40000000.0,107533928,24906141,81.19%,18.81%,132440069,92440069.0,6.7
+Epic,Twentieth Century Fox,"Action, Adventure, Animation, Family, Fantasy, Mystery",2013-05-15,100000000.0,107518682,160907952,40.06%,59.94%,268426634,168426634.0,6.4
+Watchmen,Warner Bros.,"Action, Drama, Mystery, Sci-Fi",2009-03-05,130000000.0,107509799,77873014,57.99%,42.01%,185382813,55382813.0,7.0
+The Angry Birds Movie,Sony Pictures Entertainment (SPE),"Action, Adventure, Animation, Comedy, Family",2016-05-11,73000000.0,107509366,244824563,30.51%,69.49%,352333929,279333929.0,5.9
+Batman & Robin,Warner Bros.,"Action, Sci-Fi",1997-06-20,125000000.0,107353792,130881927,45.06%,54.94%,238235719,113235719.0,4.2
+Dune,Warner Bros.,"Action, Adventure, Drama, Sci-Fi",1984-12-14,40000000.0,107344390,289700000,27.04%,72.96%,397044390,357044390.0,6.5
+Captain Phillips,Sony Pictures Entertainment (SPE),"Action, Biography, Crime, Drama, Thriller",2013-10-10,55000000.0,107100855,111690956,48.95%,51.05%,218791811,163791811.0,7.6
+Black Swan,Fox Searchlight Pictures,"Drama, Thriller",2010-12-02,13000000.0,106954678,222443368,32.47%,67.53%,329398046,316398046.0,7.3
+Analyze This,Warner Bros.,"Comedy, Crime",1999-03-05,80000000.0,106885658,70000000,60.43%,39.57%,176885658,96885658.0,6.4
+Chicken Run,DreamWorks Distribution,"Adventure, Animation, Comedy, Drama, Family",2000-06-21,45000000.0,106834564,118000000,47.52%,52.48%,224834564,179834564.0,6.5
+Miss Congeniality,Warner Bros.,"Action, Comedy, Crime, Romance",2000-12-14,45000000.0,106807667,105935053,50.21%,49.79%,212742720,167742720.0,6.1
+300: Rise of an Empire,Warner Bros.,"Action, Drama",2014-03-05,110000000.0,106580051,231000000,31.57%,68.43%,337580051,227580051.0,6.1
+GoldenEye,Metro-Goldwyn-Mayer (MGM),"Action, Adventure, Thriller",1995-11-16,58000000.0,106429941,245764093,30.22%,69.78%,352194034,294194034.0,6.6
+The Italian Job,Paramount Pictures,"Action, Crime, Thriller",2003-05-30,60000000.0,106128601,69941570,60.28%,39.72%,176070171,116070171.0,6.6
+How to Lose a Guy in 10 Days,Paramount Pictures,"Comedy, Romance",2003-02-07,50000000.0,105813373,71689014,59.61%,40.39%,177502387,127502387.0,6.3
+The First Wives Club,Paramount Pictures,Comedy,1996-09-20,26000000.0,105489203,76000000,58.12%,41.88%,181489203,155489203.0,6.5
+Robin Hood,Universal Pictures,"Action, Adventure, Drama, History",2010-05-12,200000000.0,105269730,216400011,32.73%,67.27%,321669741,121669741.0,6.2
+George of the Jungle,Walt Disney Studios Motion Pictures,"Action, Adventure, Comedy, Family, Romance",1997-07-15,55000000.0,105263257,69200000,60.34%,39.66%,174463257,119463257.0,5.4
+Phenomenon,Walt Disney Studios Motion Pictures,"Drama, Fantasy, Romance, Sci-Fi",1996-07-05,32000000.0,104636382,47400000,68.82%,31.18%,152036382,120036382.0,6.2
+American Wedding,Universal Pictures,Comedy,2003-08-01,55000000.0,104565114,128157821,44.93%,55.07%,232722935,177722935.0,6.0
+Road to Perdition,DreamWorks Distribution,"Crime, Drama, Thriller",2002-07-12,80000000.0,104454762,76546716,57.71%,42.29%,181001478,101001478.0,7.3
+The Princess and the Frog,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Fantasy, Musical, Romance",2009-12-08,105000000.0,104400899,162644866,39.09%,60.91%,267045765,162045765.0,6.7
+The Chronicles of Narnia: The Voyage of the Dawn Treader,Twentieth Century Fox,"Adventure, Family, Fantasy",2010-08-13,155000000.0,104386950,311299267,25.11%,74.89%,415686217,260686217.0,6.2
+Daddy Day Care,Revolution Studios,"Comedy, Family",2003-05-03,60000000.0,104297061,60136806,63.43%,36.57%,164433867,104433867.0,5.6
+Paranormal Activity 3,Paramount Pictures,"Horror, Mystery",2011-10-19,5000000.0,104028807,103011037,50.25%,49.75%,207039844,202039844.0,5.9
+Journey 2: The Mysterious Island,Warner Bros.,"Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",2012-01-19,79000000.0,103860290,231400000,30.98%,69.02%,335260290,256260290.0,5.8
+Dick Tracy,Walt Disney Studios Motion Pictures,"Action, Comedy, Crime, Music, Romance, Thriller",1990-06-15,47000000.0,103738726,59000000,63.75%,36.25%,162738726,115738726.0,5.9
+Rise of the Guardians,DreamWorks,"Action, Adventure, Animation, Comedy, Drama, Family, Fantasy",2012-11-21,145000000.0,103412758,203528912,33.69%,66.31%,306941670,161941670.0,7.1
+Dreamgirls,DreamWorks,"Drama, Music, Musical",2006-12-25,70000000.0,103365956,52064379,66.50%,33.50%,155430335,85430335.0,6.6
+Independence Day: Resurgence,Twentieth Century Fox,"Action, Adventure, Sci-Fi",2016-06-22,165000000.0,103144286,286537649,26.47%,73.53%,389681935,224681935.0,4.9
+The Expendables,Lionsgate,"Action, Adventure, Thriller",2010-08-03,80000000.0,103068524,171401870,37.55%,62.45%,274470394,194470394.0,6.0
+Scream,Dimension Films,"Horror, Mystery",1996-12-20,14000000.0,103046663,70000000,59.55%,40.45%,173046663,159046663.0,7.0
+Just Go with It,Sony Pictures Entertainment (SPE),"Comedy, Romance",2011-02-10,80000000.0,103028109,111917482,47.93%,52.07%,214945591,134945591.0,6.3
+The General's Daughter,Paramount Pictures,"Crime, Drama, Mystery, Thriller",1999-06-18,60000000.0,102705852,47000000,68.61%,31.39%,149705852,89705852.0,6.1
+The Aviator,Miramax,"Biography, Drama",2004-12-17,116000000.0,102610330,111109612,48.01%,51.99%,213719942,97719942.0,7.0
+American Pie,Universal Pictures,Comedy,1999-07-09,11000000.0,102561004,132922000,43.55%,56.45%,235483004,224483004.0,6.4
+The Girl with the Dragon Tattoo,Sony Pictures Entertainment (SPE),"Crime, Drama, Mystery, Thriller",2011-12-14,90000000.0,102515793,130101637,44.07%,55.93%,232617430,142617430.0,7.2
+The Mummy: Tomb of the Dragon Emperor,Universal Pictures,"Action, Fantasy, Horror, War",2008-07-01,145000000.0,102491776,300958054,25.40%,74.60%,403449830,258449830.0,5.2
+The Conjuring 2,Warner Bros.,"Horror, Mystery, Thriller",2016-05-13,40000000.0,102470008,219318211,31.84%,68.16%,321788219,281788219.0,7.0
+The Maze Runner,Twentieth Century Fox,"Action, Mystery, Sci-Fi, Thriller",2014-09-10,34000000.0,102427862,245891999,29.41%,70.59%,348319861,314319861.0,7.0
+Bad Grandpa,Paramount Pictures,Comedy,2013-10-22,15000000.0,102003019,49823528,67.18%,32.82%,151826547,136826547.0,6.0
+Pacific Rim,Warner Bros.,"Action, Adventure, Sci-Fi",2013-07-11,180000000.0,101802906,309200000,24.77%,75.23%,411002906,231002906.0,6.7
+Journey to the Center of the Earth,Warner Bros.,"Action, Adventure, Family, Fantasy, Sci-Fi",2008-07-10,45000000.0,101704370,142528318,41.64%,58.36%,244232688,199232688.0,5.8
+The Equalizer,Sony Pictures Entertainment (SPE),"Action, Crime, Thriller",2014-09-24,55000000.0,101530738,90800000,52.79%,47.21%,192330738,137330738.0,7.1
+This Is the End,Sony Pictures Entertainment (SPE),Comedy,2013-06-12,32000000.0,101470202,24571120,80.51%,19.49%,126041322,94041322.0,6.3
+Eagle Eye,DreamWorks,"Action, Mystery, Thriller",2008-09-25,80000000.0,101440743,77326640,56.74%,43.26%,178767383,98767383.0,6.3
+The Prince of Egypt,DreamWorks Distribution,"Adventure, Animation, Drama, Family, Fantasy, Musical",1998-12-15,70000000.0,101413188,117200000,46.39%,53.61%,218613188,148613188.0,6.8
+Scream 2,Dimension Films,"Horror, Mystery",1997-12-09,24000000.0,101363301,71000000,58.81%,41.19%,172363301,148363301.0,6.1
+Eraser,Warner Bros.,"Action, Crime, Thriller",1996-06-21,100000000.0,101295562,141000000,41.81%,58.19%,242295562,142295562.0,5.6
+Noah,Paramount Pictures,"Action, Adventure, Drama",2014-03-20,125000000.0,101200044,258000000,28.17%,71.83%,359200044,234200044.0,5.6
+Unforgiven,Warner Bros.,"Drama, Western",1992-08-07,14000000.0,101157447,58000000,63.56%,36.44%,159157447,145157447.0,7.7
+The Cat in the Hat,Universal Pictures,"Adventure, Comedy, Family, Fantasy",2003-11-21,109000000.0,101149285,32811256,75.51%,24.49%,133960541,24960541.0,4.9
+Con Air,Walt Disney Studios Motion Pictures,"Action, Crime, Thriller",1997-06-01,75000000.0,101117573,122894661,45.14%,54.86%,224012234,149012234.0,6.5
+Rampage,Warner Bros.,"Action, Adventure, Sci-Fi",2009-08-14,120000000.0,101028233,327000000,23.60%,76.40%,428028233,308028233.0,6.0
+Collateral,DreamWorks Distribution,"Action, Crime, Drama, Thriller",2004-08-04,65000000.0,101005703,119234222,45.86%,54.14%,220239925,155239925.0,7.0
+Contact,Warner Bros.,"Drama, Mystery, Sci-Fi, Thriller",1997-07-11,90000000.0,100920329,70200000,58.98%,41.02%,171120329,81120329.0,7.2
+Charlie's Angels: Full Throttle,Sony Pictures Entertainment (SPE),"Action, Adventure, Comedy, Crime",2003-06-27,120000000.0,100830111,158345677,38.90%,61.10%,259175788,139175788.0,5.2
+The Pelican Brief,Warner Bros.,"Crime, Drama, Mystery, Thriller",1993-12-16,45000000.0,100768056,94500000,51.60%,48.40%,195268056,150268056.0,6.3
+The Addams Family,United Artists Releasing,"Animation, Comedy, Family, Fantasy, Horror",1991-11-22,30000000.0,100723831,103060014,49.43%,50.57%,203783845,173783845.0,6.7
+Vanilla Sky,Paramount Pictures,"Fantasy, Mystery, Romance, Sci-Fi, Thriller",2001-12-10,68000000.0,100618344,102769997,49.47%,50.53%,203388341,135388341.0,6.5
+Due Date,Warner Bros.,"Comedy, Drama",2010-11-04,65000000.0,100539043,111241781,47.47%,52.53%,211780824,146780824.0,6.2
+The Rugrats Movie,Paramount Pictures,"Adventure, Animation, Comedy, Drama, Family, Musical",1998-11-20,30000000.0,100494675,40400000,71.33%,28.67%,140894675,110894675.0,5.7
+Million Dollar Baby,Warner Bros.,"Drama, Sport",2004-12-15,30000000.0,100492203,116271443,46.36%,53.64%,216763646,186763646.0,7.7
+Step Brothers,Sony Pictures Entertainment (SPE),Comedy,2008-07-25,65000000.0,100468793,27639418,78.42%,21.58%,128108211,63108211.0,6.5
+Evan Almighty,Universal Pictures,"Comedy, Family, Fantasy",2007-06-09,175000000.0,100462298,73978426,57.59%,42.41%,174440724,-559276.0,5.3
+Casper,Universal Pictures,"Comedy, Family, Fantasy",1995-05-26,50000000.0,100328194,187600000,34.84%,65.16%,287928194,237928194.0,6.0
+Shakespeare in Love,Miramax,"Comedy, Drama, History, Romance",1998-12-11,25000000.0,100317794,189000000,34.67%,65.33%,289317794,264317794.0,6.8
+Bad Teacher,Sony Pictures Entertainment (SPE),"Comedy, Romance",2011-05-16,20000000.0,100292856,115904636,46.39%,53.61%,216197492,196197492.0,5.4
+Yogi Bear,Warner Bros.,"Adventure, Animation, Comedy, Family",2010-12-11,80000000.0,100246011,103263363,49.26%,50.74%,203509374,123509374.0,5.2
+Edge of Tomorrow,Warner Bros.,"Action, Adventure, Sci-Fi",2014-05-27,178000000.0,100206256,270335000,27.04%,72.96%,370541256,192541256.0,7.6
+The Hunchback of Notre Dame,Walt Disney Studios Motion Pictures,"Animation, Drama, Family, Musical, Romance",1996-06-21,100000000.0,100138851,225200000,30.78%,69.22%,325338851,225338851.0,6.8
+Se7en,New Line Cinema,"Crime, Drama, Mystery, Thriller",1995-09-22,33000000.0,100125643,227207916,30.59%,69.41%,327333559,294333559.0,8.1
+You Don't Mess with the Zohan,Sony Pictures Entertainment (SPE),Comedy,2008-06-05,90000000.0,100018837,104294563,48.95%,51.05%,204313400,114313400.0,5.5
+Hercules,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Fantasy, Musical, Romance",2014-07-23,100000000.0,99112101,153600000,39.22%,60.78%,252712101,152712101.0,5.6
+Olympus Has Fallen,FilmDistrict,"Action, Thriller",2013-03-20,70000000.0,98925640,71344561,58.10%,41.90%,170270201,100270201.0,6.2
+The Green Hornet,Sony Pictures Entertainment (SPE),"Action, Comedy, Crime",2011-01-12,120000000.0,98780042,129037206,43.36%,56.64%,227817248,107817248.0,5.5
+Date Night,Twentieth Century Fox,"Comedy, Crime, Romance, Thriller",2010-04-08,55000000.0,98711404,53552476,64.83%,35.17%,152263880,97263880.0,5.9
+Yes Man,Warner Bros.,"Comedy, Romance",2008-12-09,70000000.0,97690976,125550661,43.76%,56.24%,223241637,153241637.0,6.4
+Sausage Party,Sony Pictures Entertainment (SPE),"Adventure, Animation, Comedy, Fantasy",2016-07-11,19000000.0,97685686,43019636,69.43%,30.57%,140705322,121705322.0,5.6
+Inspector Gadget,Walt Disney Studios Motion Pictures,"Action, Adventure, Comedy, Crime, Family, Sci-Fi",1999-07-23,75000000.0,97403112,37000000,72.47%,27.53%,134403112,59403112.0,4.3
+Public Enemies,Universal Pictures,"Action, Biography, Crime, Drama, History",2009-07-01,80000000.0,97104620,117000000,45.35%,54.65%,214104620,134104620.0,6.5
+The Social Network,Sony Pictures Entertainment (SPE),"Biography, Drama",2010-09-30,40000000.0,96962694,127957681,43.11%,56.89%,224920375,184920375.0,7.1
+Schindler's List,Universal Pictures,"Biography, Drama, History",1993-11-29,22000000.0,96898818,225262427,30.08%,69.92%,322161245,300161245.0,8.3
+The Others,Miramax,"Horror, Mystery, Thriller",2001-08-02,17000000.0,96522687,113424350,45.97%,54.03%,209947037,192947037.0,7.4
+Legally Blonde,Metro-Goldwyn-Mayer (MGM),"Comedy, Romance",2001-07-13,18000000.0,96520674,45254005,68.08%,31.92%,141774679,123774679.0,6.1
+Panic Room,Sony Pictures Entertainment (SPE),"Crime, Drama, Thriller",2002-03-29,48000000.0,96397334,100682212,48.91%,51.09%,197079546,149079546.0,6.5
+Zero Dark Thirty,Sony Pictures Entertainment (SPE),"Drama, History, Thriller, War",2012-12-19,40000000.0,95720716,37100000,72.07%,27.93%,132820716,92820716.0,6.7
+Cold Mountain,Miramax,"Adventure, Drama, History, Romance, War",2003-12-24,79000000.0,95636509,77377000,55.28%,44.72%,173013509,94013509.0,6.7
+Sex and the City 2,Warner Bros.,"Comedy, Drama, Romance",2010-05-26,100000000.0,95347692,195397363,32.79%,67.21%,290745055,190745055.0,5.4
+The Princess Diaries 2: Royal Engagement,Walt Disney Studios Motion Pictures,"Comedy, Family, Romance",2004-08-06,40000000.0,95170481,39564000,70.64%,29.36%,134734481,94734481.0,6.0
+42,Warner Bros.,"Biography, Drama, Sport",2013-04-12,40000000.0,95020213,2450488,97.49%,2.51%,97470701,57470701.0,6.8
+Unbreakable,Walt Disney Studios Motion Pictures,"Drama, Mystery, Sci-Fi, Thriller",2000-11-13,75000000.0,95011339,153106782,38.29%,61.71%,248118121,173118121.0,6.9
+The Book of Eli,Warner Bros.,"Action, Adventure, Drama, Thriller",2010-01-14,80000000.0,94835059,62272696,60.36%,39.64%,157107755,77107755.0,6.6
+Beverly Hills Chihuahua,Walt Disney Studios Motion Pictures,"Adventure, Comedy, Drama, Family, Romance",2008-10-03,20000000.0,94514402,54778086,63.31%,36.69%,149292488,129292488.0,4.9
+Julie & Julia,Sony Pictures Entertainment (SPE),"Biography, Drama, Romance",2009-08-06,40000000.0,94125426,35415096,72.66%,27.34%,129540522,89540522.0,6.6
+The Mask of Zorro,Sony Pictures Entertainment (SPE),"Action, Adventure, Comedy, Romance, Thriller, Western",1998-07-16,95000000.0,94095523,156193000,37.59%,62.41%,250288523,155288523.0,6.3
+Maid in Manhattan,Revolution Studios,"Comedy, Drama, Romance",2002-12-13,55000000.0,94011225,60895468,60.69%,39.31%,154906693,99906693.0,5.6
+He's Just Not That Into You,Warner Bros.,"Comedy, Drama, Romance",2009-02-06,40000000.0,93953653,84912505,52.53%,47.47%,178866158,138866158.0,6.2
+Master and Commander: The Far Side of the World,Twentieth Century Fox,"Action, Adventure, Drama, War",2003-11-14,150000000.0,93927920,117694615,44.38%,55.62%,211622535,61622535.0,6.9
+Flight,Paramount Pictures,"Drama, Thriller",2012-11-02,31000000.0,93772375,68000000,57.97%,42.03%,161772375,130772375.0,6.5
+The Fighter,Paramount Pictures,"Action, Biography, Drama, Sport",2010-12-17,25000000.0,93617009,35573860,72.46%,27.54%,129190869,104190869.0,7.2
+America's Sweethearts,Revolution Studios,"Comedy, Romance",2001-07-17,46000000.0,93607673,44700000,67.68%,32.32%,138307673,92307673.0,5.5
+The Bucket List,Warner Bros.,"Adventure, Comedy, Drama",2007-12-25,45000000.0,93466502,81906000,53.30%,46.70%,175372502,130372502.0,7.0
+Tomorrowland,Walt Disney Studios Motion Pictures,"Action, Adventure, Family, Fantasy, Mystery, Sci-Fi",2015-05-19,190000000.0,93436322,115599346,44.70%,55.30%,209035668,19035668.0,6.2
+Cats & Dogs,Warner Bros.,"Action, Comedy, Family, Fantasy",2001-07-04,60000000.0,93385515,107301977,46.53%,53.47%,200687492,140687492.0,5.0
+Two Weeks Notice,Warner Bros.,"Comedy, Romance",2002-12-19,60000000.0,93354851,105688620,46.90%,53.10%,199043471,139043471.0,5.9
+Red Dragon,Universal Pictures,"Crime, Drama, Thriller",2002-09-29,78000000.0,93149898,116046400,44.53%,55.47%,209196298,131196298.0,6.7
+Elysium,TriStar Pictures,"Action, Drama, Sci-Fi",2013-08-07,115000000.0,93050117,193090583,32.52%,67.48%,286140700,171140700.0,6.4
+Flubber,Walt Disney Studios Motion Pictures,"Comedy, Family, Sci-Fi",1997-11-26,80000000.0,92977226,85000000,52.24%,47.76%,177977226,97977226.0,5.3
+The Town,Warner Bros.,"Crime, Drama, Thriller",2010-09-15,37000000.0,92186262,61839874,59.85%,40.15%,154026136,117026136.0,7.0
+Non-Stop,Universal Pictures,"Action, Mystery, Thriller",2014-01-26,50000000.0,92168600,130641000,41.37%,58.63%,222809600,172809600.0,6.8
+The Client,Warner Bros.,"Crime, Drama, Mystery, Thriller",1994-07-20,45000000.0,92115211,25500000,78.32%,21.68%,117615211,72615211.0,6.4
+Star Trek: First Contact,Paramount Pictures,"Action, Adventure, Drama, Sci-Fi, Thriller",1996-11-21,46000000.0,92027888,54000000,63.02%,36.98%,146027888,100027888.0,7.0
+Think Like a Man,Screen Gems,"Comedy, Romance",2012-04-16,12000000.0,91547205,4523302,95.29%,4.71%,96070507,84070507.0,6.9
+Kindergarten Cop,Universal Pictures,"Action, Comedy, Crime",1990-12-21,15000000.0,91457688,110500000,45.29%,54.71%,201957688,186957688.0,5.8
+The Haunting,DreamWorks Distribution,"Fantasy, Horror, Mystery, Thriller",1999-07-23,80000000.0,91411151,85900000,51.55%,48.45%,177311151,97311151.0,5.2
+Crimson Tide,Walt Disney Studios Motion Pictures,"Action, Drama, Thriller, War",1995-05-12,53000000.0,91387195,66000000,58.07%,41.93%,157387195,104387195.0,7.0
+Ride Along 2,Universal Pictures,"Action, Comedy, Crime",2016-01-14,40000000.0,91221830,33386608,73.21%,26.79%,124608438,84608438.0,6.1
+Stepmom,Sony Pictures Entertainment (SPE),"Comedy, Drama",1998-12-25,50000000.0,91137662,68573131,57.06%,42.94%,159710793,109710793.0,6.9
+The Imitation Game,The Weinstein Company,"Biography, Drama, Thriller, War",2014-11-14,14000000.0,91125683,142430025,39.02%,60.98%,233555708,219555708.0,8.0
+Save the Last Dance,Paramount Pictures,"Drama, Music, Romance",2001-01-12,13000000.0,91057006,40649803,69.14%,30.86%,131706809,118706809.0,6.3
+The Scorpion King,Universal Pictures,"Action, Adventure, Fantasy",2002-04-16,60000000.0,91047077,89583830,50.41%,49.59%,180630907,120630907.0,5.3
+Prince of Persia: The Sands of Time,Walt Disney Studios Motion Pictures,"Action, Adventure, Fantasy",2010-05-19,150000000.0,90759676,245606000,26.98%,73.02%,336365676,186365676.0,6.2
+Antz,DreamWorks Distribution,"Adventure, Animation, Comedy, Family, Fantasy",1998-10-02,60000000.0,90757863,81000000,52.84%,47.16%,171757863,111757863.0,6.0
+Scary Movie 4,Dimension Films,Comedy,2006-04-13,45000000.0,90710620,87552000,50.89%,49.11%,178262620,133262620.0,5.3
+The Game Plan,Walt Disney Studios Motion Pictures,"Comedy, Family, Sport",2007-09-28,22000000.0,90648202,57232341,61.30%,38.70%,147880543,125880543.0,6.0
+"Me, Myself & Irene",Twentieth Century Fox,Comedy,2000-06-22,51000000.0,90570999,58700000,60.68%,39.32%,149270999,98270999.0,6.1
+High School Musical 3: Senior Year,Walt Disney Studios Motion Pictures,"Comedy, Drama, Family, Music, Musical, Romance",2008-10-22,11000000.0,90559416,162349761,35.81%,64.19%,252909177,241909177.0,6.2
+Madea Goes to Jail,Lionsgate,"Comedy, Crime, Drama",2009-02-16,17500000.0,90508336,90508336,50.00%,50.00%,181016672,163516672.0,6.4
+Space Cowboys,Warner Bros.,"Action, Adventure, Thriller",2000-07-31,65000000.0,90464773,38419359,70.19%,29.81%,128884132,63884132.0,6.3
+Space Jam,Warner Bros.,"Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi, Sport",1996-11-15,80000000.0,90418342,140000000,39.24%,60.76%,230418342,150418342.0,6.5
+Get Hard,Warner Bros.,"Comedy, Crime",2015-03-26,40000000.0,90411453,21300000,80.93%,19.07%,111711453,71711453.0,5.9
+RED,Summit Entertainment,"Action, Comedy, Crime, Thriller",2010-10-13,58000000.0,90380162,108626225,45.42%,54.58%,199006387,141006387.0,6.6
+"Legally Blonde 2: Red, White & Blonde",Metro-Goldwyn-Mayer (MGM),Comedy,2003-07-02,45000000.0,90186328,34728514,72.20%,27.80%,124914842,79914842.0,5.1
+Mystic River,Warner Bros.,"Crime, Drama, Mystery, Thriller",2003-10-07,25000000.0,90135191,66460000,57.56%,42.44%,156595191,131595191.0,7.6
+Terminator Genisys,Paramount Pictures,"Action, Adventure, Sci-Fi, Thriller",2015-06-23,155000000.0,89760956,350842581,20.37%,79.63%,440603537,285603537.0,5.8
+Flightplan,Walt Disney Studios Motion Pictures,"Drama, Mystery, Thriller",2005-09-22,55000000.0,89707299,133680000,40.16%,59.84%,223387299,168387299.0,6.1
+The Emperor's New Groove,Walt Disney Studios Motion Pictures,"Adventure, Animation, Comedy, Family, Fantasy",2000-12-09,100000000.0,89636687,80025000,52.83%,47.17%,169661687,69661687.0,7.2
+The Lone Ranger,Walt Disney Studios Motion Pictures,"Action, Adventure, Western",2013-07-03,255000000.0,89302115,171200000,34.28%,65.72%,260502115,5502115.0,5.9
+Taken 3,Twentieth Century Fox,"Action, Crime, Thriller",2014-12-16,48000000.0,89256424,237222717,27.34%,72.66%,326479141,278479141.0,6.1
+Scream 3,Dimension Films,"Horror, Mystery",2000-02-03,40000000.0,89143175,72691101,55.08%,44.92%,161834276,121834276.0,5.7
+Oblivion,Universal Pictures,"Action, Adventure, Sci-Fi",2013-04-10,120000000.0,89107235,197061337,31.14%,68.86%,286168572,166168572.0,6.4
+The Ugly Truth,Sony Pictures Entertainment (SPE),"Comedy, Romance",2009-07-24,38000000.0,88915214,232767386,27.64%,72.36%,321682600,283682600.0,6.4
+Percy Jackson & the Olympians: The Lightning Thief,Twentieth Century Fox,"Adventure, Family, Fantasy",2010-02-01,95000000.0,88768303,137728906,39.19%,60.81%,226497209,131497209.0,6.0
+Failure to Launch,Paramount Pictures,"Comedy, Romance",2006-03-10,50000000.0,88715192,41508966,68.12%,31.88%,130224158,80224158.0,5.5
+The Muppets,Walt Disney Studios Motion Pictures,"Adventure, Comedy, Family, Musical",2011-11-22,45000000.0,88631237,76553000,53.66%,46.34%,165184237,120184237.0,6.5
+Inside Man,Universal Pictures,"Crime, Drama, Mystery, Thriller",2006-03-23,45000000.0,88513495,97490096,47.59%,52.41%,186003591,141003591.0,7.3
+Back to the Future Part III,Universal Pictures,"Adventure, Comedy, Sci-Fi, Western",1990-05-25,40000000.0,88277583,156800000,36.02%,63.98%,245077583,205077583.0,7.1
+Waterworld,Universal Pictures,"Action, Adventure, Sci-Fi",1995-07-28,175000000.0,88246220,175972000,33.40%,66.60%,264218220,89218220.0,5.9
+Starsky & Hutch,Warner Bros.,"Comedy, Crime",2004-03-05,60000000.0,88237754,82030996,51.82%,48.18%,170268750,110268750.0,5.6
+Along Came Polly,Universal Pictures,"Comedy, Romance",2004-01-16,42000000.0,88097164,90214565,49.41%,50.59%,178311729,136311729.0,5.8
+Entrapment,Twentieth Century Fox,"Action, Crime, Romance, Thriller",1999-04-29,66000000.0,87704396,124700000,41.29%,58.71%,212404396,146404396.0,6.0
+Pineapple Express,Sony Pictures Entertainment (SPE),"Action, Comedy, Crime",2008-08-06,27000000.0,87341380,14283463,85.94%,14.06%,101624843,74624843.0,6.6
+Saw II,Lionsgate,"Horror, Mystery",2005-10-28,4000000.0,87039965,60708540,58.91%,41.09%,147748505,143748505.0,6.3
+The Naked Gun 2½: The Smell of Fear,Paramount Pictures,"Comedy, Crime",1991-06-28,23000000.0,86930411,86930411,50.00%,50.00%,173860822,150860822.0,6.6
+The Campaign,Warner Bros.,Comedy,2012-08-09,95000000.0,86907746,18000000,82.84%,17.16%,104907746,9907746.0,5.6
+Dumb and Dumber To,Universal Pictures,Comedy,2014-11-12,40000000.0,86208010,83629000,50.76%,49.24%,169837010,129837010.0,5.4
+Mean Girls,Paramount Pictures,Comedy,2004-04-30,17000000.0,86058055,44068222,66.13%,33.87%,130126277,113126277.0,6.9
+Annie,Sony Pictures Entertainment (SPE),"Comedy, Drama, Family, Musical",2014-12-19,65000000.0,85911262,50942244,62.78%,37.22%,136853506,71853506.0,6.0
+Alvin and the Chipmunks: The Road Chip,Twentieth Century Fox,"Adventure, Animation, Comedy, Family, Fantasy, Music, Musical",2015-12-17,90000000.0,85886987,148911649,36.58%,63.42%,234798636,144798636.0,5.8
+Fury,Sony Pictures Entertainment (SPE),"Action, Drama, War",2014-10-15,68000000.0,85817906,126004791,40.51%,59.49%,211822697,143822697.0,7.4
+Real Steel,Walt Disney Studios Motion Pictures,"Action, Drama, Sci-Fi, Sport",2011-09-28,110000000.0,85468508,213800000,28.56%,71.44%,299268508,189268508.0,6.6
+The SpongeBob SquarePants Movie,Paramount Pictures,"Adventure, Animation, Comedy, Family, Fantasy",2004-11-14,30000000.0,85417988,55649139,60.55%,39.45%,141067127,111067127.0,6.7
+Stripes,Columbia Pictures,"Comedy, War",1981-06-25,10000000.0,85297000,85297000,50.00%,50.00%,170594000,160594000.0,6.5
+Anchorman: The Legend of Ron Burgundy,DreamWorks Distribution,Comedy,2004-07-09,26000000.0,85288303,5421064,94.02%,5.98%,90709367,64709367.0,6.7
+Aliens,Twentieth Century Fox,"Action, Adventure, Sci-Fi, Thriller",1986-07-18,18500000.0,85160248,45900000,64.98%,35.02%,131060248,112560248.0,7.7
+Open Season,Sony Pictures Entertainment (SPE),"Adventure, Animation, Comedy, Drama, Family",2006-09-29,85000000.0,85105259,115706430,42.38%,57.62%,200811689,115811689.0,6.1
+The Expendables 2,Lionsgate,"Action, Adventure, Thriller",2012-08-08,100000000.0,85028192,229947763,27.00%,73.00%,314975955,214975955.0,6.1
+Paranormal Activity 2,Paramount Pictures,"Horror, Mystery",2010-10-20,3000000.0,84752907,92759125,47.74%,52.26%,177512032,174512032.0,5.7
+Tammy,Warner Bros.,"Comedy, Romance",2014-07-02,20000000.0,84525432,15850000,84.21%,15.79%,100375432,80375432.0,5.0
+"Crazy, Stupid, Love.",Warner Bros.,"Comedy, Drama, Romance",2011-07-29,50000000.0,84351197,60700000,58.15%,41.85%,145051197,95051197.0,7.0
+Annabelle,Warner Bros.,"Horror, Mystery, Thriller",2014-10-02,6500000.0,84273813,173305469,32.72%,67.28%,257579282,251079282.0,5.6
+Scooby-Doo 2: Monsters Unleashed,Warner Bros.,"Adventure, Comedy, Family, Fantasy, Horror, Mystery, Sci-Fi",2004-03-24,25000000.0,84216833,97000000,46.47%,53.53%,181216833,156216833.0,5.4
+Atlantis: The Lost Empire,Walt Disney Studios Motion Pictures,"Action, Adventure, Animation, Family, Fantasy, Sci-Fi",2001-06-02,120000000.0,84056472,101997253,45.18%,54.82%,186053725,66053725.0,6.7
+Cliffhanger,TriStar Pictures,"Action, Adventure, Thriller",1993-05-28,70000000.0,84049211,170951000,32.96%,67.04%,255000211,185000211.0,6.1
+The Other Woman,Twentieth Century Fox,"Comedy, Romance",2014-04-16,40000000.0,83911193,112799203,42.66%,57.34%,196710396,156710396.0,6.2
+The X Files,Twentieth Century Fox,"Drama, Mystery, Sci-Fi, Thriller",1998-06-19,66000000.0,83898313,105278110,44.35%,55.65%,189176423,123176423.0,6.6
+Penguins of Madagascar,Twentieth Century Fox,"Adventure, Animation, Comedy, Family, Sci-Fi",2014-11-22,132000000.0,83850911,289664710,22.45%,77.55%,373515621,241515621.0,6.5
+Die Hard,Twentieth Century Fox,"Action, Thriller",1988-07-15,28000000.0,83844093,57759104,59.21%,40.79%,141603197,113603197.0,7.5
+Up in the Air,Paramount Pictures,"Comedy, Drama, Romance",2009-09-05,25000000.0,83823381,83019358,50.24%,49.76%,166842739,141842739.0,6.7
+Wrath of the Titans,Warner Bros.,"Action, Adventure, Fantasy",2012-03-27,150000000.0,83670083,218300000,27.71%,72.29%,301970083,151970083.0,5.5
+Insidious: Chapter 2,FilmDistrict,"Horror, Mystery, Thriller",2013-09-12,5000000.0,83586447,78332871,51.62%,48.38%,161919318,156919318.0,6.5
+Immortals,Relativity Media,"Action, Drama, Fantasy, Romance",2011-11-10,75000000.0,83504017,143400000,36.80%,63.20%,226904017,151904017.0,5.7
+Apocalypse Now,Metro-Goldwyn-Mayer (MGM),"Drama, Mystery, War",1979-08-15,31500000.0,83471511,8686553,90.57%,9.43%,92158064,60658064.0,8.0
+Patriot Games,Paramount Pictures,"Action, Thriller",1992-06-04,45000000.0,83351587,94700000,46.81%,53.19%,178051587,133051587.0,6.3
+Saving Mr. Banks,Walt Disney Studios Motion Pictures,"Biography, Comedy, Drama",2013-11-16,35000000.0,83301580,34566404,70.67%,29.33%,117867984,82867984.0,7.3
+Valkyrie,United Artists,"Drama, History, Thriller, War",2008-12-25,75000000.0,83077833,118467684,41.22%,58.78%,201545517,126545517.0,6.7
+Brokeback Mountain,Focus Features,"Drama, Romance",2005-09-02,14000000.0,83043761,95018998,46.64%,53.36%,178062759,164062759.0,7.5
+Turbo,Twentieth Century Fox,"Adventure, Animation, Comedy, Family, Sport",2013-07-11,135000000.0,83028128,199542554,29.38%,70.62%,282570682,147570682.0,6.1
+Disclosure,Warner Bros.,"Drama, Thriller",1994-12-09,55000000.0,83015089,131000000,38.79%,61.21%,214015089,159015089.0,5.9
+Charlotte's Web,Paramount Pictures,"Adventure, Comedy, Family, Fantasy",2006-12-15,85000000.0,82985708,65978114,55.71%,44.29%,148963822,63963822.0,5.8
+Monster-in-Law,New Line Cinema,"Comedy, Romance",2005-05-13,43000000.0,82931301,72526026,53.35%,46.65%,155457327,112457327.0,5.6
+Are We There Yet?,Revolution Studios,"Adventure, Comedy, Family, Fantasy, Romance",2005-01-20,32000000.0,82674398,15244265,84.43%,15.57%,97918663,65918663.0,5.2
+Freddy vs. Jason,New Line Cinema,"Action, Horror",2003-08-15,30000000.0,82622655,34009973,70.84%,29.16%,116632628,86632628.0,5.8
+Star Trek: The Motion Picture,Paramount Pictures,"Adventure, Mystery, Sci-Fi",1979-12-06,35000000.0,82604699,82604699,50.00%,50.00%,165209398,130209398.0,6.2
+The Descendants,Fox Searchlight Pictures,"Comedy, Drama",2011-09-09,20000000.0,82584160,94659025,46.59%,53.41%,177243185,157243185.0,6.7
+Cheaper by the Dozen 2,Twentieth Century Fox,"Adventure, Comedy, Family",2005-12-21,60000000.0,82571173,47583395,63.44%,36.56%,130154568,70154568.0,5.7
+Mr. Holland's Opus,Walt Disney Studios Motion Pictures,"Drama, Music",1995-12-29,31000000.0,82569971,23700000,77.70%,22.30%,106269971,75269971.0,6.9
+Let's Be Cops,Twentieth Century Fox,"Action, Comedy, Crime",2014-08-13,17000000.0,82390774,55834177,59.61%,40.39%,138224951,121224951.0,6.4
+Blade II,New Line Cinema,"Action, Horror, Sci-Fi, Thriller",2002-03-22,54000000.0,82348319,72661713,53.12%,46.88%,155010032,101010032.0,6.2
+Beowulf,Paramount Pictures,"Action, Adventure, Animation, Fantasy",2007-11-05,70000000.0,82280579,114113166,41.90%,58.10%,196393745,126393745.0,5.5
+Bridge to Terabithia,Walt Disney Studios Motion Pictures,"Drama, Family, Fantasy",2007-02-16,60000000.0,82272442,55314621,59.80%,40.20%,137587063,77587063.0,7.0
+The Pink Panther,Sony Pictures Entertainment (SPE),"Adventure, Comedy, Crime, Mystery",2006-01-18,80000000.0,82226474,81889423,50.10%,49.90%,164115897,84115897.0,5.6
+Teenage Mutant Ninja Turtles: Out of the Shadows,Paramount Pictures,"Action, Adventure, Comedy, Sci-Fi",2016-06-01,135000000.0,82051601,163572247,33.41%,66.59%,245623848,110623848.0,5.8
+Alien,Twentieth Century Fox,"Horror, Sci-Fi",1979-05-25,11000000.0,81900459,24385063,77.06%,22.94%,106285522,95285522.0,7.9
+Maze Runner: The Scorch Trials,Twentieth Century Fox,"Action, Adventure, Sci-Fi, Thriller",2015-09-09,61000000.0,81697192,230598864,26.16%,73.84%,312296056,251296056.0,6.4
+Eight Below,Walt Disney Studios Motion Pictures,"Adventure, Drama, Family",2006-02-17,40000000.0,81612565,38843429,67.75%,32.25%,120455994,80455994.0,6.7
+Unstoppable,Twentieth Century Fox,"Action, Thriller",2010-11-04,100000000.0,81562942,86242524,48.61%,51.39%,167805466,67805466.0,6.3
+Payback,Paramount Pictures,"Action, Crime, Drama, Thriller",1999-02-05,90000000.0,81526121,80100000,50.44%,49.56%,161626121,71626121.0,6.7
+Ted 2,Universal Pictures,Comedy,2015-06-25,68000000.0,81476385,134387221,37.74%,62.26%,215863606,147863606.0,6.2
+The Talented Mr. Ripley,Paramount Pictures,"Crime, Drama, Thriller",1999-12-25,40000000.0,81298265,47501244,63.12%,36.88%,128799509,88799509.0,7.0
+School of Rock,Paramount Pictures,"Comedy, Music",2003-10-03,35000000.0,81261177,49834813,61.99%,38.01%,131095990,96095990.0,6.7
+Snow Dogs,Walt Disney Studios Motion Pictures,"Adventure, Comedy, Family, Sport",2002-01-18,33000000.0,81172560,33862530,70.56%,29.44%,115035090,82035090.0,5.3
+21,Sony Pictures Entertainment (SPE),"Crime, Drama, History, Thriller",2008-03-27,35000000.0,81159365,78649005,50.79%,49.21%,159808370,124808370.0,6.5
+Congo,Paramount Pictures,"Action, Adventure, Mystery, Sci-Fi",1995-06-09,50000000.0,81022101,71000000,53.30%,46.70%,152022101,102022101.0,5.0
+The Notebook,New Line Cinema,"Drama, Romance",2004-06-25,29000000.0,81001787,36813370,68.75%,31.25%,117815157,88815157.0,7.7
+Jimmy Neutron: Boy Genius,Paramount Pictures,"Action, Adventure, Animation, Comedy, Family, Sci-Fi",2001-12-21,25000000.0,80936232,22056304,78.58%,21.42%,102992536,77992536.0,5.6
+Eat Pray Love,Sony Pictures Entertainment (SPE),"Biography, Drama, Romance",2010-08-12,60000000.0,80574010,124020006,39.38%,60.62%,204594016,144594016.0,5.8
+Zookeeper,Sony Pictures Entertainment (SPE),"Comedy, Family, Fantasy, Romance",2011-07-06,80000000.0,80360843,89491916,47.31%,52.69%,169852759,89852759.0,5.3
